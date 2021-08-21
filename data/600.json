@@ -1,0 +1,7546 @@
+[
+    {
+    "_id": {
+      "$oid": "611750c5aa22718a1ef61046"
+    },
+    "ProcedureName": "Vibration Magnetometer",
+    "labtype": "Physics",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU",
+    "id": {
+      "$oid": "6079246ae78ea15b0857dbc4"
+    }
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef61047"
+    },
+    "ProcedureName": "Air Wedge Experiment",
+    "labtype": "Physics",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU",
+    "id": {
+      "$oid": "6077d0372d4ab92a358c272a"
+    }
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef61048"
+    },
+    "id": {
+      "$oid": "6077ff8a27a620043e6c8740"
+    },
+    "ProcedureName": "Lee's Disc Method",
+    "labtype": "Physics",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef61049"
+    },
+    "id": {
+      "$oid": "6077e5c92d4ab92a358c272d"
+    },
+    "ProcedureName": "Thermal Conductivity",
+    "labtype": "Physics",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef6104a"
+    },
+    "id": "6078196127a620043e6c8747",
+    "ProcedureName": "Magnetic Field",
+    "labtype": "Physics",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef6104b"
+    },
+    "id": "6078303727a620043e6c874a",
+    "ProcedureName": "Polarimeter",
+    "labtype": "Physics",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef6104c"
+    },
+    "id": "607925162381bd0421c04ffe",
+    "ProcedureName": "Newton Rings",
+    "labtype": "Physics",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef6104d"
+    },
+    "id": "607936e52381bd0421c04fff",
+    "ProcedureName": "Laser Grating",
+    "labtype": "Physics",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef6104e"
+    },
+    "id": "60794c96d003a301fb06515f",
+    "ProcedureName": "Spectrometer Prism",
+    "labtype": "Physics",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef6104f"
+    },
+    "id": "6079586ed003a301fb065165",
+    "ProcedureName": "Spectrometer Grating",
+    "labtype": "Physics",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef61050"
+    },
+    "id": "608152c7629d29019524f3e0",
+    "ProcedureName": "EDTA Water",
+    "labtype": "Chemistry",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef61051"
+    },
+    "id": "60815b9a629d29019524f3e1",
+    "ProcedureName": "Dissolved Oxygen",
+    "labtype": "Chemistry",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef61052"
+    },
+    "id": "60815ec3629d29019524f3e2",
+    "ProcedureName": "Acetic acid",
+    "labtype": "Chemistry",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef61053"
+    },
+    "id": "60816239629d29019524f3e3",
+    "ProcedureName": "Copper",
+    "labtype": "Chemistry",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef61054"
+    },
+    "id": "60816421629d29019524f3e4",
+    "ProcedureName": "Conductometric",
+    "labtype": "Chemistry",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef61055"
+    },
+    "id": "60816cb4629d29019524f3e5",
+    "ProcedureName": "Bleaching Powder",
+    "labtype": "Chemistry",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef61056"
+    },
+    "id": "60816ea6629d29019524f3e6",
+    "ProcedureName": "EDTA Magnesium",
+    "labtype": "Chemistry",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef61057"
+    },
+    "id": "608364e4ded00e047565b98d",
+    "ProcedureName": "Permanganometry",
+    "labtype": "Chemistry",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef61058"
+    },
+    "id": "60836650ded00e047565b98e",
+    "ProcedureName": "Colorimetry",
+    "labtype": "Chemistry",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef61059"
+    },
+    "id": "60839bfeded00e047565b98f",
+    "ProcedureName": "COD",
+    "labtype": "Chemistry",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef6105a"
+    },
+    "id": "6083f020ded00e047565b990",
+    "ProcedureName": "MOHR",
+    "labtype": "Chemistry",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef6105b"
+    },
+    "id": "6086130d86a5d7084508034b",
+    "ProcedureName": "Alkalinity",
+    "labtype": "Chemistry",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef6105c"
+    },
+    "id": "608f803e45bd930312aeed3f",
+    "ProcedureName": "Determination of total solids",
+    "labtype": "Chemistry",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef6105d"
+    },
+    "id": "608f829bb3134103391aaed0",
+    "ProcedureName": "Determination of conductivity",
+    "labtype": "Chemistry",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef6105e"
+    },
+    "id": "608f8399d55e6403434e979d",
+    "ProcedureName": "Determination of SS",
+    "labtype": "Chemistry",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef6105f"
+    },
+    "id": "608f841fd55e6403434e979e",
+    "ProcedureName": "Jar test for coagulation",
+    "labtype": "Chemistry",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef61060"
+    },
+    "id": "608f8741d55e6403434e979f",
+    "ProcedureName": "Determination of alkalinity",
+    "labtype": "Chemistry",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef61061"
+    },
+    "id": "608f8ddbd55e6403434e97a2",
+    "ProcedureName": "Determination of RC ",
+    "labtype": "Chemistry",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef61062"
+    },
+    "id": "608f8faed55e6403434e97a3",
+    "ProcedureName": "Determination of DO",
+    "labtype": "Chemistry",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef61063"
+    },
+    "id": "608f8ba5d55e6403434e97a1",
+    "ProcedureName": "Determination of chloride",
+    "labtype": "Chemistry",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef61064"
+    },
+    "id": "608f9088d55e6403434e97a5",
+    "ProcedureName": "Determination of Manganese",
+    "labtype": "Chemistry",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef61065"
+    },
+    "id": "608f9207d55e6403434e97a6",
+    "ProcedureName": "Turbidity",
+    "labtype": "Chemistry",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef61066"
+    },
+    "id": "608f8954d55e6403434e97a0",
+    "ProcedureName": "Determination of TH",
+    "labtype": "Chemistry",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef61067"
+    },
+    "id": "608f933bd55e6403434e97a8",
+    "ProcedureName": "Measurement of PH",
+    "labtype": "Chemistry",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef61068"
+    },
+    "id": "608f9415d55e6403434e97a9",
+    "ProcedureName": "Determination of BOD",
+    "labtype": "Chemistry",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef61069"
+    },
+    "id": "608f947cd55e6403434e97aa",
+    "ProcedureName": "Determination of COD",
+    "labtype": "Chemistry",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef6106a"
+    },
+    "id": "6089369615846503289ff691",
+    "ProcedureName": "Stair Case Wiring",
+    "labtype": "Basic_Electrical_And_Electronics_Engineering",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef6106b"
+    },
+    "id": "608936d115846503289ff692",
+    "ProcedureName": "Bed Room Wiring ",
+    "labtype": "Basic_Electrical_And_Electronics_Engineering",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef6106c"
+    },
+    "id": "60893bd215846503289ff693",
+    "ProcedureName": "Doctor’s Room Wiring",
+    "labtype": "Basic_Electrical_And_Electronics_Engineering",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef6106d"
+    },
+    "id": "60893e2715846503289ff696",
+    "ProcedureName": "Fan and Tube Light Connections Wiring",
+    "labtype": "Basic_Electrical_And_Electronics_Engineering",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef6106e"
+    },
+    "id": "6089486115846503289ff69a",
+    "ProcedureName": "Godown Wiring",
+    "labtype": "Basic_Electrical_And_Electronics_Engineering",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef6106f"
+    },
+    "id": "608950ba439e3803e9042f33",
+    "ProcedureName": "Cathode Ray Oscilloscope",
+    "labtype": "Basic_Electrical_And_Electronics_Engineering",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef61070"
+    },
+    "id": "60895133439e3803e9042f34",
+    "ProcedureName": "Study of Electrical Accessories",
+    "labtype": "Basic_Electrical_And_Electronics_Engineering",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef61071"
+    },
+    "id": "608aa2b47347a5020d65d658",
+    "ProcedureName": "Kirchoff’s Law",
+    "labtype": "Basic_Electrical_And_Electronics_Engineering",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef61072"
+    },
+    "id": "608f8a588b6ad601e281314c",
+    "ProcedureName": "Binary search- DSOP",
+    "labtype": "Computer_Programming",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef61073"
+    },
+    "id": "608f8db88b6ad601e281314e",
+    "ProcedureName": "Binary Tree",
+    "labtype": "Computer_Programming",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef61074"
+    },
+    "id": "608f8ec75c9cc857fb0436d1",
+    "ProcedureName": "Shell Programming",
+    "labtype": "Computer_Programming",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef61075"
+    },
+    "id": "608f8fc05c9cc857fb0436d6",
+    "ProcedureName": "Disk Scheduling",
+    "labtype": "Computer_Programming",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef61076"
+    },
+    "id": "608f90008b6ad601e2813154",
+    "ProcedureName": "Bubble Sort",
+    "labtype": "Computer_Programming",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef61077"
+    },
+    "id": "608f90245c9cc857fb0436d7",
+    "ProcedureName": "Even or odd number",
+    "labtype": "Computer_Programming",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef61078"
+    },
+    "id": "608f909b5c9cc857fb0436d8",
+    "ProcedureName": "Fibonacci series",
+    "labtype": "Computer_Programming",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef61079"
+    },
+    "id": "608f917e5c9cc857fb0436d9",
+    "ProcedureName": "Implementation of best fit algorithm",
+    "labtype": "Computer_Programming",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef6107a"
+    },
+    "id": "608f92158b6ad601e2813155",
+    "ProcedureName": "Classes and objects",
+    "labtype": "Computer_Programming",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef6107b"
+    },
+    "id": "608f9316ad172c7c0a1f57d5",
+    "ProcedureName": "Implementation of priority scheduling",
+    "labtype": "Computer_Programming",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef6107c"
+    },
+    "id": "608f97611931eb0277e374ad",
+    "ProcedureName": "Constructor and Destructor",
+    "labtype": "Computer_Programming",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef6107d"
+    },
+    "id": "608f97cc1931eb0277e374ae",
+    "ProcedureName": "Doubly Linked List",
+    "labtype": "Computer_Programming",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef6107e"
+    },
+    "id": "608f9802ad172c7c0a1f57d6",
+    "ProcedureName": "Implementation of RR scheduling",
+    "labtype": "Computer_Programming",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef6107f"
+    },
+    "id": "608f985c1931eb0277e374af",
+    "ProcedureName": "Dijkstra's Algorithm",
+    "labtype": "Computer_Programming",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef61080"
+    },
+    "id": "608f9870ad172c7c0a1f57d8",
+    "ProcedureName": "Implementaton of SJF scheduling",
+    "labtype": "Computer_Programming",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef61081"
+    },
+    "id": "608f98c6ad172c7c0a1f57dc",
+    "ProcedureName": "Implementation of worst fit",
+    "labtype": "Computer_Programming",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef61082"
+    },
+    "id": "608f98f61931eb0277e374b0",
+    "ProcedureName": "Graph Traversal",
+    "labtype": "Computer_Programming",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef61083"
+    },
+    "id": "608f99ae1931eb0277e374b1",
+    "ProcedureName": "Infix to Postfix",
+    "labtype": "Computer_Programming",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef61084"
+    },
+    "id": "608f9a4e1931eb0277e374b2",
+    "ProcedureName": "Insertion sort",
+    "labtype": "Computer_Programming",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef61085"
+    },
+    "id": "608f9a6613cef87c5e8ae94c",
+    "ProcedureName": "Memory management",
+    "labtype": "Computer_Programming",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef61086"
+    },
+    "id": "608f9ab31931eb0277e374b3",
+    "ProcedureName": "Linear Search",
+    "labtype": "Computer_Programming",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef61087"
+    },
+    "id": "608f9b0c1931eb0277e374b4",
+    "ProcedureName": "Merge Sort",
+    "labtype": "Computer_Programming",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef61088"
+    },
+    "id": "608f9b1613cef87c5e8ae94d",
+    "ProcedureName": "Page replacement",
+    "labtype": "Computer_Programming",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef61089"
+    },
+    "id": "608f9b4d13cef87c5e8ae94e",
+    "ProcedureName": "Process scheduling",
+    "labtype": "Computer_Programming",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef6108a"
+    },
+    "id": "608f9b8313cef87c5e8ae94f",
+    "ProcedureName": "Semaphore",
+    "labtype": "Computer_Programming",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef6108b"
+    },
+    "id": "608f9bb813cef87c5e8ae950",
+    "ProcedureName": "Simulation of GREP ",
+    "labtype": "Computer_Programming",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef6108c"
+    },
+    "id": "608f9bda13cef87c5e8ae951",
+    "ProcedureName": "Simulation of Command",
+    "labtype": "Computer_Programming",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef6108d"
+    },
+    "id": "608f9c0513cef87c5e8ae953",
+    "ProcedureName": "Sum of digits",
+    "labtype": "Computer_Programming",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef6108e"
+    },
+    "id": "608f9c4113cef87c5e8ae954",
+    "ProcedureName": "System calls of UNIX/LINUX OS",
+    "labtype": "Computer_Programming",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef6108f"
+    },
+    "id": "608f9ced13cef87c5e8ae955",
+    "ProcedureName": "AWT - Control",
+    "labtype": "Computer_Programming",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef61090"
+    },
+    "id": "608f9d5613cef87c5e8ae956",
+    "ProcedureName": "Border layout",
+    "labtype": "Computer_Programming",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef61091"
+    },
+    "id": "608f9d7b13cef87c5e8ae957",
+    "ProcedureName": "Class and objects - Java",
+    "labtype": "Computer_Programming",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef61092"
+    },
+    "id": "608f9df913cef87c5e8ae959",
+    "ProcedureName": "Colour pallet",
+    "labtype": "Computer_Programming",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef61093"
+    },
+    "id": "608f9e1f13cef87c5e8ae95a",
+    "ProcedureName": "Constructor",
+    "labtype": "Computer_Programming",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef61094"
+    },
+    "id": "608f9e5913cef87c5e8ae95b",
+    "ProcedureName": "Event Handler",
+    "labtype": "Computer_Programming",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef61095"
+    },
+    "id": "608f9e7413cef87c5e8ae95c",
+    "ProcedureName": "Exception Handling - Array Index Out Of Bound",
+    "labtype": "Computer_Programming",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef61096"
+    },
+    "id": "608fa0ae4d79cf02c42f6929",
+    "ProcedureName": "Multilevel Inheritance",
+    "labtype": "Computer_Programming",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef61097"
+    },
+    "id": "608fa1304d79cf02c42f692a",
+    "ProcedureName": "Multiple Inheritance",
+    "labtype": "Computer_Programming",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef61098"
+    },
+    "id": "608fa17a4d79cf02c42f692b",
+    "ProcedureName": "Operator Overloading",
+    "labtype": "Computer_Programming",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef61099"
+    },
+    "id": "608fa23b029a3c7cfa58473a",
+    "ProcedureName": "Exception Handling - Multiple Catch",
+    "labtype": "Computer_Programming",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef6109a"
+    },
+    "id": "608fa276029a3c7cfa58473b",
+    "ProcedureName": "Factorial of a Number",
+    "labtype": "Computer_Programming",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef6109b"
+    },
+    "id": "608fa2a2029a3c7cfa58473c",
+    "ProcedureName": "Flow Layout",
+    "labtype": "Computer_Programming",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef6109c"
+    },
+    "id": "608fa2c7029a3c7cfa58473d",
+    "ProcedureName": "Function Overloading",
+    "labtype": "Computer_Programming",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef6109d"
+    },
+    "id": "608fa2efb4b95502da142781",
+    "ProcedureName": "Operator Overload",
+    "labtype": "Computer_Programming",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef6109e"
+    },
+    "id": "608fa2f9029a3c7cfa58473e",
+    "ProcedureName": "Inheritance – Hierarchical ",
+    "labtype": "Computer_Programming",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef6109f"
+    },
+    "id": "608fa31d029a3c7cfa58473f",
+    "ProcedureName": "Interface",
+    "labtype": "Computer_Programming",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef610a0"
+    },
+    "id": "608fa33bb4b95502da142782",
+    "labtype": "Computer_Programming",
+    "ProcedureName": "Prims Algorithm",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef610a1"
+    },
+    "id": "608fa354029a3c7cfa584741",
+    "labtype": "Computer_Programming",
+    "ProcedureName": "JDBC",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef610a2"
+    },
+    "id": "608fa383029a3c7cfa584743",
+    "labtype": "Computer_Programming",
+    "ProcedureName": "Multi-Thread ",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef610a3"
+    },
+    "id": "608fa45cd900d67d55a59a35",
+    "labtype": "Computer_Programming",
+    "ProcedureName": " Nested Class",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef610a4"
+    },
+    "id": "608fa4a8d900d67d55a59a37",
+    "labtype": "Computer_Programming",
+    "ProcedureName": "Nested Class  ",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef610a5"
+    },
+    "id": "608fa4f2d900d67d55a59a38",
+    "labtype": "Computer_Programming",
+    "ProcedureName": "Package",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef610a6"
+    },
+    "id": "608fa514d900d67d55a59a39",
+    "labtype": "Computer_Programming",
+    "ProcedureName": "Remote Method Invocation",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef610a7"
+    },
+    "id": "608fa531d900d67d55a59a3c",
+    "labtype": "Computer_Programming",
+    "ProcedureName": "Reversing Given Number ",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef610a8"
+    },
+    "id": "608fa5f6d900d67d55a59a3d",
+    "labtype": "Computer_Programming",
+    "ProcedureName": "Simple applet",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef610a9"
+    },
+    "id": "608fa631d900d67d55a59a40",
+    "labtype": "Computer_Programming",
+    "ProcedureName": "Simple Java Programs using Scanner",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef610aa"
+    },
+    "id": "608fa645d900d67d55a59a41",
+    "labtype": "Computer_Programming",
+    "ProcedureName": "Single Inheritance",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef610ab"
+    },
+    "id": "608fa65cd900d67d55a59a42",
+    "labtype": "Computer_Programming",
+    "ProcedureName": "Static Variable ",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef610ac"
+    },
+    "id": "608fa676d900d67d55a59a43",
+    "labtype": "Computer_Programming",
+    "ProcedureName": "String Class  ",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef610ad"
+    },
+    "id": "608fa679a9580b02e6a78e79",
+    "labtype": "Computer_Programming",
+    "ProcedureName": "Prim Algorithm",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef610ae"
+    },
+    "id": "608fa690d900d67d55a59a44",
+    "labtype": "Computer_Programming",
+    "ProcedureName": "Thread Using Runnable Interface ",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef610af"
+    },
+    "id": "608fa6a5d900d67d55a59a45",
+    "labtype": "Computer_Programming",
+    "ProcedureName": "User Defined Exception ",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef610b0"
+    },
+    "id": "608fa714a9580b02e6a78e7a",
+    "labtype": "Computer_Programming",
+    "ProcedureName": "Queue",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef610b1"
+    },
+    "id": "608fa7d8a9580b02e6a78e7c",
+    "labtype": "Computer_Programming",
+    "ProcedureName": "Selection Sort",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef610b2"
+    },
+    "id": "608fa876a9580b02e6a78e7d",
+    "labtype": "Computer_Programming",
+    "ProcedureName": "Single Linked List",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },{
+    "_id": {
+      "$oid": "611750c5aa22718a1ef610b3"
+    },
+    "id": "608fa8c8a9580b02e6a78e7e",
+    "labtype": "Computer_Programming",
+    "ProcedureName": "Stack",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PTU"
+  },
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61111"
+    },
+    "ProcedureName":"Frequency Modulation- CL",
+    "labtype": "Data_Structures_And_Object_Oriented",
+    "department": "Computer_Science_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "608fa8c8a9580b02e6a78e7e"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61112"
+    },
+    "ProcedureName":"Frequency Modulation- CL",
+    "labtype": "Communication_Lab - I",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "608fb6e5a9580b02e6a78e7f"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61113"
+    },
+    "ProcedureName":"Amplitude Modulation- CL",
+    "labtype": "Communication_Lab - I",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "608fb733a9580b02e6a78e80"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61114"
+    },
+    "ProcedureName":"Modulator and Demodulator- CL",
+    "labtype": "Communication_Lab - I",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "608fb87aa9580b02e6a78e81"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61115"
+    },
+    "ProcedureName":"Automatic Gain Control- C",
+    "labtype": "Communication_Lab - I",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "608fb908a9580b02e6a78e82"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61116"
+    },
+    "ProcedureName":"Mixer and Ring Modulator- CL",
+    "labtype": "Communication_Lab - I",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "608fb971a9580b02e6a78e83"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61117"
+    },
+    "ProcedureName":"Frequency  and Demodulator- CL",
+    "labtype": "Communication_Lab - I",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "608fba17a9580b02e6a78e84"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61118"
+    },
+    "ProcedureName":"Pre- emphasis and De- emphasis",
+    "labtype": "Communication_Lab - I",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "608fba73a9580b02e6a78e85"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61119"
+    },
+    "ProcedureName":"Pulse Amplitude Modulation",
+    "labtype": "Communication_Lab - I",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "608fbac2a9580b02e6a78e86"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61120"
+    },
+    "ProcedureName":"Pulse Position Modulation-CL",
+    "labtype": "Communication_Lab - I",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "608fbb63a9580b02e6a78e87"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61121"
+    },
+    "ProcedureName":"Pul Position Modulation-CL",
+    "labtype": "Communication_Lab - I",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "608fbbb751781303983b3575"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61122"
+    },
+    "ProcedureName":"Pulse width modulation-CL ",
+    "labtype": "Communication_Lab - I",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "608fbcfe51781303983b3576"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61123"
+    },
+    "ProcedureName":"Pulse width and Position- CL",
+    "labtype": "Communication_Lab - I",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "608fbd7651781303983b3577"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61124"
+    },
+    "ProcedureName":"Sample and hold- CL",
+    "labtype": "Communication_Lab - I",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "608fbdb551781303983b3578"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61125"
+    },
+    "ProcedureName":"Sample and Hold  Pam-CL",
+    "labtype": "Communication_Lab - I",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "608fbe1851781303983b3579"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61126"
+    },
+    "ProcedureName":"Simple Automatic Gain Control- CL",
+    "labtype": "Communication_Lab - I",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "608fbe9051781303983b357a"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61127"
+    },
+    "ProcedureName":"Tuned and wide band amplifier-CL",
+    "labtype": "Communication_Lab - I",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "608fbf2851781303983b357b"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61128"
+    },
+    "ProcedureName":"Binary  to gray code-DCL",
+    "labtype": "Digital_Circuit",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "608fc07651781303983b357c"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61129"
+    },
+    "ProcedureName":"Decoder- DCL",
+    "labtype": "Digital_Circuit",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "608fc0fd51781303983b357d"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61130"
+    },
+    "ProcedureName":"Demultiplexer",
+    "labtype": "Digital_Circuit",
+   "department": "Electronics_And_Communication_Engineering", 
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "608fc1b651781303983b357e"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61131"
+    },
+    "ProcedureName":"Implementation of BCD",
+    "labtype": "Digital_Circuit",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "608fc22851781303983b357f"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61132"
+    },
+    "ProcedureName":"Implementation of Code Converter",
+    "labtype": "Digital_Circuit",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "608fc29051781303983b3580"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61133"
+    },
+    "ProcedureName":"4 bit adder and subtractor",
+    "labtype": "Digital_Circuit",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "608fc30251781303983b3581"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61134"
+    },
+    "ProcedureName":"4 BIT BCD adder- DCL",
+    "labtype": "Digital_Circuit",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "608fc37251781303983b3582"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61135"
+    },
+    "ProcedureName":"Encoder- DCL",
+    "labtype": "Digital_Circuit",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "608fc3e851781303983b3583"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61136"
+    },
+    "ProcedureName":"Multiplexer",
+    "labtype": "Digital_Circuit",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "608fc47451781303983b3584"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61137"
+    },
+    "ProcedureName":"Study of OS commands",
+    "labtype": "Computer_Programming",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PU",
+    "id": {
+        "$oid": "608fc6f651781303983b3585"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61138"
+    },
+    "ProcedureName":"Area of a Triangle",
+    "labtype": "Computer_Programming",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PU",
+    "id": {
+        "$oid": "608fc76951781303983b3586"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61139"
+    },
+    "ProcedureName":"Student Marklist",
+    "labtype": "Computer_Programming",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PU",
+    "id": {
+        "$oid": "608fc7ef51781303983b3587"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61140"
+    },
+    "ProcedureName":"Place value of a Number",
+    "labtype": "Computer_Programming",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PU",
+    "id": {
+        "$oid": "608fc86e51781303983b3588"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61141"
+    },
+    "ProcedureName":"Vowel or not",
+    "labtype": "Computer_Programming",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PU",
+    "id": {
+        "$oid": "608fc8e951781303983b3589"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61142"
+    },
+    "ProcedureName":"Square Values for given range",
+    "labtype": "Computer_Programming",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PU",
+    "id": {
+        "$oid": "608fc8e951781303983b3589"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61143"
+    },
+    "ProcedureName":"Sum of Series",
+    "labtype": "Computer_Programming",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PU",
+    "id": {
+        "$oid": "608fc9c251781303983b358b"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61144"
+    },
+    "ProcedureName":"Factorial Using Function",
+    "labtype": "Computer_Programming",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PU",
+    "id": {
+        "$oid": "608fcde251781303983b358c"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61145"
+    },
+    "ProcedureName":"Swapping of Two numbers",
+    "labtype": "Computer_Programming",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PU",
+    "id": {
+        "$oid": "608fce6a51781303983b358d"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61146"
+    },
+    "ProcedureName":"Smallest and Largest Element",
+    "labtype": "Computer_Programming",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PU",
+    "id": {
+        "$oid": "608fcf0451781303983b358e"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61147"
+    },
+    "ProcedureName":"Matrix Multiplication",
+    "labtype": "Computer_Programming",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PU",
+    "id": {
+        "$oid": "608fcf9f51781303983b3590"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61148"
+    },
+    "ProcedureName":"Local and Global Variables",
+    "labtype": "Computer_Programming",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PU",
+    "id": {
+        "$oid": "608fd02251781303983b3591"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61149"
+    },
+    "ProcedureName":"String Handling Functions",
+    "labtype": "Computer_Programming",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PU",
+    "id": {
+        "$oid": "608fd18d51781303983b3592"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61150"
+    },
+    "ProcedureName":"Removal of Special Characters",
+    "labtype": "Computer_Programming",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PU",
+    "id": {
+        "$oid": "608fd21b51781303983b3593"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61151"
+    },
+    "ProcedureName":"Sum of an Integer Array",
+    "labtype": "Computer_Programming",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PU",
+    "id": {
+        "$oid": "608fd5b951781303983b3594"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61152"
+    },
+    "ProcedureName":"Maximum Element in an Integer Array",
+    "labtype": "Computer_Programming",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PU",
+    "id": {
+        "$oid": "608fd65e51781303983b3595"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61153"
+    },
+    "ProcedureName":"Student details using Structures",
+    "labtype": "Computer_Programming",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PU",
+    "id": {
+        "$oid": "608fd6fa51781303983b3596"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61154"
+    },
+    "ProcedureName":"File Content Display",
+    "labtype": "Computer_Programming",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PU",
+    "id": {
+        "$oid": "608fd78151781303983b3597"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61155"
+    },
+    "ProcedureName":"Input/ Output File Functions",
+    "labtype": "Computational_Method",
+    "department": "Mechanical_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "608fd81e51781303983b3598"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61156"
+    },
+    "ProcedureName":"Passing of Parameter",
+    "labtype": "Computer_Programming",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PU",
+    "id": {
+        "$oid": "608fd89c51781303983b3599"
+    }
+},
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61157"
+    },
+    "ProcedureName": "Acute Angle Fitting",
+    "labtype": "Workshop_Practice",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PU",
+    "id": {
+        "$oid": "608fedc1e1b79101bcd53531"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61158"
+    },
+    "ProcedureName": "Corner_Mortise_Joint",
+    "labtype": "Workshop_Pactice",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PU",
+    "id": {
+        "$oid": "608fef80e1b79101bcd53532"
+    }
+},
+
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61159"
+    },
+    "ProcedureName": "Dust_Pan",
+    "labtype": "Workshop_Practice",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PU",
+    "id": {
+        "$oid": "608ff01be1b79101bcd53533"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61160"
+    },
+    "ProcedureName": "Filing Practise",
+    "labtype": "Workshop_Practice",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PU",
+    "id": {
+        "$oid": "608ff0a0e1b79101bcd53534"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61161"
+    },
+    "ProcedureName": "Gas_Welding",
+    "labtype": "Workshop_Practice",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PU",
+    "id": {
+        "$oid": "608ff13fe1b79101bcd53535"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61162"
+    },
+    "ProcedureName": "Half_Lap_Joint",
+    "labtype": "Workshop_Practice",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PU",
+    "id": {
+        "$oid": "608ff1abe1b79101bcd53536"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61163"
+    },
+    "ProcedureName": "Lap_Joint",
+    "labtype": "Workshop_Practice",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PU",
+    "id": {
+        "$oid": "608ff204e1b79101bcd53537"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61164"
+    },
+    "ProcedureName": "Planing",
+    "labtype": "Workshop_Practice",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PU",
+    "id": {
+        "$oid": "608ff294e1b79101bcd53538"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61165"
+    },
+    "ProcedureName": "Rectangular_Tray",
+    "labtype": "Workshop_Practice",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PU",
+    "id": {
+        "$oid": "608ff300e1b79101bcd53539"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61166"
+    },
+    "ProcedureName": "Single_Vee_Butt_Joint",
+    "labtype": "Workshop_Practice",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PU",
+    "id": {
+        "$oid": "608ff367e1b79101bcd5353a"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61167"
+    },
+    "ProcedureName": "Vee_Fitting",
+    "labtype": "Workshop_Practice",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PU",
+    "id": {
+        "$oid": "608ff45de1b79101bcd5353b"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61168"
+    },
+    "ProcedureName": "Welding_Line_Practise",
+    "labtype": "Workshop_Practice",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PU",
+    "id": {
+        "$oid": "608ff4c0e1b79101bcd5353c"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61169"
+    },
+    "ProcedureName": "Two_way_communication_using_UDP",
+    "labtype": "Computer_Network",
+    "department": "Computer_Science_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6090d1a93326ed7df9fd05c1"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61170"
+    },
+    "ProcedureName": "Two_Way_Communication_Using_TCP",
+    "labtype": "Computer_Network",
+    "department": "Computer_Science_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6090d2d73326ed7df9fd05c2"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61171"
+    },
+    "ProcedureName": "Talk command",
+    "labtype": "Computer_Network",
+    "department": "Computer_Science_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6090d4533326ed7df9fd05c8"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61172"
+    },
+    "ProcedureName": "Study_Of_Commands_For_Socket_Programming",
+    "labtype": "Computer_Network",
+    "department": "Computer_Science_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6090d66f3326ed7df9fd05c9"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61173"
+    },
+    "ProcedureName": "Study of basics of networking",
+    "labtype": "Computer_Network",
+    "department": "Computer_Science_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6090db2a4fea4282e3bbe666"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61174"
+    },
+    "ProcedureName": "Stop and Wait Protocol",
+    "labtype": "Computer_Network",
+    "department": "Electrical_And_Communications_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6090dbbd4fea4282e3bbe667"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61175"
+    },
+    "ProcedureName": "SNMP",
+    "labtype": "Computer_Network",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6090dc2d4fea4282e3bbe668"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61176"
+    },
+    "ProcedureName": "Slide window protocol",
+    "labtype": "Computer_Network",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6090dd674fea4282e3bbe669"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61177"
+    },
+    "ProcedureName": "Shortest_Path_Routing",
+    "labtype": "Computer_Network",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6090de794fea4282e3bbe66c"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61178"
+    },
+    "ProcedureName": "RMI based application",
+    "labtype": "Computer_Network",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6090e1564fea4282e3bbe66d"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61179"
+    },
+    "ProcedureName": "RMI",
+    "labtype": "Computer_Network",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6090e28f4fea4282e3bbe66e"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61180"
+    },
+    "ProcedureName": "Study_Of_Tools_In_Fitting",
+    "labtype": "Workshop_Practice",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PU",
+    "id": {
+        "$oid": "6090e2a2141dd401c4adf84a"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61181"
+    },
+    "ProcedureName": "Remote_Command_Execution",
+    "labtype": "Computer_Network",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6090e4594fea4282e3bbe66f"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61182"
+    },
+    "ProcedureName": "Ping_Command",
+    "labtype": "Computer_Network",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6090e7004fea4282e3bbe670"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61183"
+    },
+    "ProcedureName": "One-way_Communication_Using_UDP",
+    "labtype": "Computer_Network",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6090e7f64fea4282e3bbe671"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61184"
+    },
+    "ProcedureName": "Study_Of_Tools_In_Sheet_Metal_Work",
+    "labtype": "Workshop_Practice",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PU",
+    "id": {
+        "$oid": "6090e894718cbd01a8ee85a9"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61185"
+    },
+    "ProcedureName": "One-way_Communication_Using_TCP",
+    "labtype": "Workshop_Practice",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PU",
+    "id": {
+        "$oid": "6090f078c714188488047baf"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61186"
+    },
+    "ProcedureName": "Multicast_Routing",
+    "labtype": "Computer_Network",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6090f856c714188488047bb2"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61187"
+    },
+    "ProcedureName": "Implementation_Of_Using_NS2",
+    "labtype": "Computer_Network",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609105bfd87efb854946713a"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61188"
+    },
+    "ProcedureName": "Implementation_Of_Traceroute",
+    "labtype": "Computer_Network",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6091065dd87efb854946713c"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61189"
+    },
+    "ProcedureName": "Implementation_Of_Subnetting",
+    "labtype": "Computer_Network",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609107e742038b856a08566a"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61190"
+    },
+    "ProcedureName": "Implementation_Of_DNS",
+    "labtype": "Computer_Network",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609107eb42038b856a08566b"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61191"
+    },
+    "ProcedureName": "HTTP_Webpage_Download",
+    "labtype": "Computer_Network",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609108bc42038b856a08566d"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61192"
+    },
+    "ProcedureName": "Generate_The_Random_Port_Number",
+    "labtype": "Computer_Network",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6091098442038b856a08566e"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61193"
+    },
+    "ProcedureName": "File_Transfer_Using_TCP",
+    "labtype": "Computer_Network",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60910b90d1fbec85b7808732"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61194"
+    },
+    "ProcedureName": "Finding_An_IP_Address_Of_Client",
+    "labtype": "Computer_Network",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60910b96d1fbec85b7808733"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61195"
+    },
+    "ProcedureName": "Echo_Command",
+    "labtype": "Computer_Network",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60910cb6d1fbec85b7808737"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61196"
+    },
+    "ProcedureName": "Distance_Vector_Routing",
+    "labtype": "Computer_Network",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60910de395837685d972e4b5"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61197"
+    },
+    "ProcedureName": "Cyclic_Redundancy_Check",
+    "labtype": "Computer_Network",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60910e8495837685d972e4b6"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61198"
+    },
+    "ProcedureName": "Address_Resolution_Protoco",
+    "labtype": "Computer_Network",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60910f4895837685d972e4b7"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61199"
+    },
+    "ProcedureName": "Tools_In_Carpentry",
+    "labtype": "Workshop_Practice",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PU",
+    "id": {
+        "$oid": "609116279c311b02500ff07f"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61200"
+    },
+    "ProcedureName": "Web_Application_Using_Dream_Weaver",
+    "labtype": "Advance_Software_Lab(Multimedia_And_Embedded)",
+    "department": "Information_Technology",
+    "year": "4'th year",
+    "college": "PU",
+    "id": {
+        "$oid": "6091221f4a2d6b870f3f841d"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61201"
+    },
+    "ProcedureName": "Study of Tools in Welding",
+    "labtype": "Workshop_Practice",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PU",
+    "id": {
+        "$oid": "6091224741f2c3044813e803"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef6202"
+    },
+    "ProcedureName": "Single_Phase_Transformer",
+    "labtype": "Electrical_Machines - I",
+    "department": "Electrical_And_Electronics_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60912dd841f2c3044813e804"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61203"
+    },
+    "ProcedureName": "Data_Definition_Language",
+    "labtype": "Database_Management_System",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60912eb24a2d6b870f3f841e"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61204"
+    },
+    "ProcedureName": "Single_Phase_Induction_Motor",
+    "labtype": "Electrical_Machines - II",
+    "department": "Electrical_And_Electronics_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6091307041f2c3044813e805"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61205"
+    },
+    "ProcedureName": "Data_Manipulation_Language",
+    "labtype": "Database_Management_System",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609130be4a2d6b870f3f841f"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61206"
+    },
+    "ProcedureName": "Data_Control_language",
+    "labtype": "Database_Management_System",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6091318f4a2d6b870f3f8420"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61207"
+    },
+    "ProcedureName": "Data_Query_Language",
+    "labtype": "Database_Management_System",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609133174a2d6b870f3f8421"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61208"
+    },
+    "ProcedureName": "Constraints",
+    "labtype": "Database_Management_System",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609135f1f05f7d87caca897a"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61209"
+    },
+    "ProcedureName": "OC-SC_Single_Phase",
+    "labtype":"Electrical_And_Electronics_Lab",
+    "department": "Mechanical_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6091368141f2c3044813e806"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61210"
+    },
+    "ProcedureName": "Predicates",
+    "labtype":"Database_Management_System",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60913684f05f7d87caca897b"
+    }
+},
+{
+       "_id": {
+           "$oid": "611750c5aa22718a1ef61211"
+       },
+       "ProcedureName": "Simulation Of Location Monitoring System In Sensor Networks",
+       "labtype": "Advanced_Software_Lab_(Multimedia_And_Embedded)",
+       "department": "Information_Technology",
+       "year": "4'th year",
+       "college": "PU",
+       "id": {
+           "$oid": "6092480c805600881b7188c3"
+       }
+ },
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61212"
+    },
+    "ProcedureName": "Size distribution of fine",
+    "labtype": "Material_Testing_Lab - II",
+    "department": "Civil",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609248e987f79703c26acc73"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61213"
+    },
+    "ProcedureName": "Attribute Relevance Analysis In WEKA",
+    "labtype": "Advanced_Software_Lab_(Multimedia_And_Embedded)",
+    "department": "Information_Technology",
+    "year": "4'th year",
+    "college": "PU",
+    "id": {
+        "$oid": "60924a1c805600881b7188c4"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61214"
+    },
+    "ProcedureName": "Consistency of standard cement",
+    "labtype": "Material_Testing_Lab - II",
+    "department": "Civil",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60924b4287f79703c26acc74"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61215"
+    },
+    "ProcedureName": "Study Of Html Tags",
+    "labtype": "Web_Technology",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60924c34805600881b7188c5"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61216"
+    },
+    "ProcedureName": "Setting time of cement",
+    "labtype": "Material_Testing_Lab - II",
+    "department": "Civil",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609252da87f79703c26acc75"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61217"
+    },
+    "ProcedureName": "Bulking of fine aggregate",
+    "labtype": "Material_Testing_Lab - II",
+    "department": "Civil",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6092542487f79703c26acc76"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61218"
+    },
+    "ProcedureName": "VEE BEE Consistometer",
+    "labtype": "Material_Testing_Lab - II",
+    "department": "Civil",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6092557b87f79703c26acc77"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61219"
+    },
+    "ProcedureName": "Compaction factor test",
+    "labtype": "Material_Testing_Lab - II",
+    "department": "Civil",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6092575587f79703c26acc78"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61220"
+    },
+    "ProcedureName": "Slump cone test",
+    "labtype": "Material_Testing_Lab - II",
+    "department": "Civil",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6092594376fe2e05a33533bd"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61221"
+    },
+    "ProcedureName": "Pelton Wheel Turbine",
+    "labtype": "Fluid_Machinery_Laboratory",
+    "department": "Mechanical_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60926954d5bbf703fc6fa2c7"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61222"
+    },
+    "ProcedureName": "Compressive strength of cement",
+    "labtype": "Material_Testing_Lab - II",
+    "department": "Civil",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60926e8276fe2e05a33533be"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61223"
+    },
+    "ProcedureName": "Flexural strength of concrete",
+    "labtype": "Material_Testing_Lab - II",
+    "department": "Civil",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60926ed776fe2e05a33533bf"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61224"
+    },
+    "ProcedureName": "Nested sub queries",
+    "labtype": "Database_Management_System",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6092732f805600881b7188c6"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61225"
+    },
+    "ProcedureName": "Library management ",
+    "labtype": "Database_Management_System",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60927694805600881b7188c7"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61226"
+    },
+    "ProcedureName": "Student mark list 1",
+    "labtype": "Web_Technology",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6092773b805600881b7188c8"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61227"
+    },
+    "ProcedureName": "Student mark list 2",
+    "labtype": "Web_Technology",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609277ba805600881b7188c9"
+    }
+},
+
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61228"
+    },
+    "ProcedureName": "Test On Reciprocating Pump",
+    "labtype": "Fluid_Mechanics_And_Machinery",
+    "department": "Civil",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60927b2bd5bbf703fc6fa2c8"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61229"
+    },
+    "ProcedureName": "Brinell Hardness Test",
+    "labtype": "Material_Testing_Lab - I",
+    "department": "Civil",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60928ea1d5bbf703fc6fa2c9"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61230"
+    },
+    "ProcedureName": "Comparator Circuit",
+    "labtype": "System_Design_Using_Integrated_Circuit",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609295aaef24c5065b9b0de7"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61231"
+    },
+    "ProcedureName": "3 Bit Binary Up / Down Counter",
+    "labtype": "Digital_Circuit",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60929e8bef24c5065b9b0de8"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61232"
+    },
+    "ProcedureName": "Resume Preparation",
+    "labtype": "Web_Technology",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609371f7805600881b7188cc"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61233"
+    },
+    "ProcedureName": "Cascading Style Sheet",
+    "labtype": "Web_Technology",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609372cb805600881b7188cd"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61234"
+    },
+    "ProcedureName": "Client Side Scripting Login Form",
+    "labtype": "Web_Technology",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60937349805600881b7188ce"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61235"
+    },
+    "ProcedureName": "VBScript built-in functions",
+    "labtype": "Web_Technology",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609373ae805600881b7188cf"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61236"
+    },
+    "ProcedureName": "Student Quiz contest",
+    "labtype": "Web_Technology",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60937453805600881b7188d0"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61237"
+    },
+    "ProcedureName": "Javascript student's marks details",
+    "labtype": "Web_Technology",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609375bb805600881b7188d3"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61238"
+    },
+    "ProcedureName": "Arithmetic operations",
+    "labtype": "Web_Technology",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6093789b019fa28ffeb2617f"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61239"
+    },
+    "ProcedureName": "Synchronous Counter",
+    "labtype": "Digital_Circuit",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60937abfdd6a1101cff45190"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61240"
+    },
+    "ProcedureName": "Configuration of Web Server",
+    "labtype": "Web_Technology",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60937e66019fa28ffeb26180"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61241"
+    },
+    "ProcedureName": "Servlet student details",
+    "labtype": "Web_Technology",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60937efb019fa28ffeb26181"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61242"
+    },
+    "ProcedureName": "Login form",
+    "labtype": "Web_Technology",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60937f9d019fa28ffeb26182"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61243"
+    },
+    "ProcedureName": "Session And Application Objects Student Quiz",
+    "labtype": "Web_Technology",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60938044019fa28ffeb26183"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61244"
+    },
+    "ProcedureName": "File system management",
+    "labtype": "Web_Technology",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609380d8019fa28ffeb26184"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61245"
+    },
+    "ProcedureName": "Online book store",
+    "labtype": "Web_Technology",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609384dd6ee1ef905ff30a5c"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61246"
+    },
+    "ProcedureName": "Active Server Page matrix multiplication",
+    "labtype": "Web_Technology",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609385876ee1ef905ff30a5d"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61247"
+    },
+    "ProcedureName": "Java servlet registration page",
+    "labtype": "Web_Technology",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609387876ee1ef905ff30a5e"
+    }
+},
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61248"
+    },
+    "ProcedureName": "Game board",
+    "labtype": "Artificial_Intelligence",
+    "department": "Computer_Science_Engineering",
+    "year": "4'th year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a372e336a34735e81a1dca"
+    }
+},
+
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61249"
+    },
+    "ProcedureName": "Tic tac toe",
+    "labtype": "Artificial_Intelligence",
+    "department": "Computer_Science_Engineering",
+    "year": "4'th year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a3737d36a34735e81a1dcb"
+    }
+},
+ 
+
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61250"
+    },
+    "ProcedureName": "String compilation",
+    "labtype": "Artificial_Intelligence",
+    "department": "Computer_Science_Engineering",
+    "year": "4'th year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a3740636a34735e81a1dcc"
+    }
+},
+
+
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61251"
+    },
+    "ProcedureName": "Real Time Clock",
+    "labtype": "Embedded_System",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "4'th year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a38a70d95159054dde8c7f"
+    }
+},
+
+
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61252"
+    },
+    "ProcedureName": "Lamp Controller Using Ldr And Timer",
+    "labtype": "Embedded_System",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "4'th year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a38aa2d95159054dde8c80"
+    }
+},
+
+
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61253"
+    },
+    "ProcedureName": "Hot Chamber Controller",
+    "labtype": "Embedded_System",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "4'th year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a38ad9d95159054dde8c81"
+    }
+},
+
+
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61254"
+    },
+    "ProcedureName": "Moisture Sensor",
+    "labtype": "Embedded_System",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "4'th year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a38b06d95159054dde8c82"
+    }
+},
+
+
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61255"
+    },
+    "ProcedureName": "Temperature Measurement",
+    "labtype": "Basic_Electrical_And_Electronics_Engineering",
+    "department": "Electrical_And_Electronics_Engineering",
+    "year": "I'st year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a38b32d95159054dde8c83"
+    }
+},
+
+
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61256"
+    },
+    "ProcedureName": "Ultrasonic Detector",
+    "labtype": "Embedded_System",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "4'th year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a38b6ed95159054dde8c84"
+    }
+},
+
+
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61257"
+    },
+    "ProcedureName": "Characteristic Of Equalizer",
+    "labtype": "Network_And_Transmission_Line",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a3950dd95159054dde8c85"
+    }
+},
+
+
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61258"
+    },
+    "ProcedureName": "Wireless Transmitter ",
+    "labtype": "Artificial_Intelligence",
+    "department": "Computer_Science_Engineering",
+    "year": "4'th year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a395dfd95159054dde8c86"
+    }
+},
+
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61259"
+    },
+    "ProcedureName": "Wireless Receiver",
+    "labtype": "Physics",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a39626d95159054dde8c87"
+    }
+},
+ 
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61260"
+    },
+    "ProcedureName": "Water Level Controller",
+    "labtype": "Physics",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a39691d95159054dde8c88"
+    }
+},
+ 
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61261"
+    },
+    "ProcedureName": "Voltage Measurement",
+    "labtype": "Embedded_System",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "4'th year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a39aeed95159054dde8c89"
+    }
+},
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61262"
+    },
+    "ProcedureName": "Amplitude Shift Keying ",
+    "labtype": "Communication_Lab - II",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a39b4cd95159054dde8c8a"
+    }
+},
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61263"
+    },
+    "ProcedureName": "RSA Algorithm ",
+    "labtype": "Communication_Lab - II",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a39fa7d95159054dde8c91"
+    }
+},
+
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61264"
+    },
+    "ProcedureName": "Drilling and boring",
+    "labtype": "Manufacturing_Process_Lab - II",
+    "department": "Mechanical_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a73a4b33b2990aa3ae02cb"
+    }
+},
+ 
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61265"
+    },
+    "ProcedureName": "Turning between centers",
+    "labtype": "Manufacturing_Process_Lab - II",
+    "department": "Mechanical_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a73abf33b2990aa3ae02cc"
+    }
+},
+
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61266"
+    },
+    "ProcedureName": " Square and multi start thread cutting ",
+    "labtype": "Manufacturing_Process_Lab - II",
+    "department": "Mechanical_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a73b4a33b2990aa3ae02cd"
+    }
+},
+
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61267"
+    },
+    "ProcedureName": "Eccentric turning",
+    "labtype": "Manufacturing_Process_Lab - II",
+    "department": "Mechanical_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a73bab33b2990aa3ae02ce"
+    }
+},
+
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61268"
+    },
+    "ProcedureName": "Study of drilling machine",
+    "labtype": "Manufacturing_Process_Lab - II",
+    "department": "Mechanical_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a73c7733b2990aa3ae02cf"
+    }
+},
+
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61269"
+    },
+    "ProcedureName": "Drilling and tapping",
+    "labtype": "Manufacturing_Process_Lab - II",
+    "department": "Mechanical_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a73ce133b2990aa3ae02d0"
+    }
+},
+
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61270"
+    },
+    "ProcedureName": "Shaping and V- slot grooving",
+    "labtype": "Manufacturing_Process_Lab - II",
+    "department": "Mechanical_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a73d3133b2990aa3ae02d1"
+    }
+},
+
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61271"
+    },
+    "ProcedureName": "Spline milling",
+    "labtype": "Manufacturing_Process_Lab - II",
+    "department": "Mechanical_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a73d8033b2990aa3ae02d2"
+    }
+},
+
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61272"
+    },
+    "ProcedureName": "Spur gear",
+    "labtype": "Manufacturing_Process_Lab - II",
+    "department": "Mechanical_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a73dd833b2990aa3ae02d3"
+    }
+},
+
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61273"
+    },
+    "ProcedureName": "Keyway milling",
+    "labtype": "Manufacturing_Process_Lab - II",
+    "department": "Mechanical_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a73e2733b2990aa3ae02d4"
+    }
+},
+
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61274"
+    },
+    "ProcedureName": "Study of grinding machine",
+    "labtype": "Manufacturing_Process_Lab - II",
+    "department": "Mechanical_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a73eae33b2990aa3ae02d5"
+    }
+},
+
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61275"
+    },
+    "ProcedureName": "Cylindrical grinding",
+    "labtype": "Manufacturing_Process_Lab - II",
+    "department": "Mechanical_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a73eef33b2990aa3ae02d6"
+    }
+},
+
+ 
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61276"
+    },
+    "ProcedureName": "Modeling of a 3D Pipe with Flange ",
+    "labtype": "Computataional_Method",
+    "department": "Mechanical_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a74a8129fa5810be8e82af"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61277"
+    },
+    "ProcedureName": "Structured grid generation of a 2D Plate",
+    "labtype": "Computational_Method",
+    "department": "Mechanical_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a74b6229fa5810be8e82b0"
+    }
+},
+
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61278"
+    },
+    "ProcedureName": "Unstructured grid generation of a 2D Plate",
+    "labtype": "Computataional_Method",
+    "department": "Mechanical_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a74bbb29fa5810be8e82b1"
+    }
+},
+
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61279"
+    },
+    "ProcedureName": "Structured grid generation of a 3D Pipe",
+    "labtype": "Computataional_Method",
+    "department": "Mechanical_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a74c0e29fa5810be8e82b2"
+    }
+},
+
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61280"
+    },
+    "ProcedureName": "Unstructured grid generation of a 3D Pipe",
+    "labtype": "Computataional_Method",
+    "department": "Mechanical_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a74cb329fa5810be8e82b3"
+    }
+},
+
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61281"
+    },
+    "ProcedureName": "Incompressible internal laminar flow in a 3D Pipe",
+    "labtype": "Computataional_Method",
+    "department": "Mechanical_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a74f6c533f5b11851e0214"
+    }
+},
+
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61282"
+    },
+    "ProcedureName": "Incompressible internal turbulent flow in a 3D Pipe",
+    "labtype": "Computataional_Method",
+    "department": "Mechanical_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a75034533f5b11851e0215"
+    }
+},
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61283"
+    },
+    "ProcedureName": "Incompressible external laminar flow over an Aerofoil",
+    "labtype": "Computataional_Method",
+    "department": "Mechanical_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a75153533f5b11851e0217"
+    }
+},
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61284"
+    },
+    "ProcedureName": "Incompressible external turbulent flow over an Aerofoil",
+    "labtype": "Computataional_Method",
+    "department": "Mechanical_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a751da533f5b11851e0218"
+    }
+},
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61285"
+    },
+    "ProcedureName": "PROGRAMMING OF CNC TURNING",
+    "labtype": "Manufacturing_Process_Lab - III",
+    "department": "Mechanical_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a77b9373fd1a2284b374ba"
+    }
+},
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61286"
+    },
+    "ProcedureName": "PROGRAMMING OF CNC MILLING",
+    "labtype": "Manufacturing_Process_Lab - III",
+    "department": "Mechanical_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a77c3b73fd1a2284b374bb"
+    }
+},
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61287"
+    },
+    "ProcedureName": "STUDY OF AUTOMATIC PROGRAMMING TOOL",
+    "labtype": "Manufacturing_Process_Lab - III",
+    "department": "Mechanical_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a77d5a73fd1a2284b374bc"
+    }
+},
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61288"
+    },
+    "ProcedureName": "APT PROGRAMMING FOR MILLING",
+    "labtype": "Manufacturing_Process_Lab - III",
+    "department": "Mechanical_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a77d9873fd1a2284b374bd"
+    }
+},
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61289"
+    },
+    "ProcedureName": "STUDY OF VERNIER CALIPER, MICROMETER",
+    "labtype": "Manufacturing_Process_Lab - III",
+    "department": "Mechanical_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a77e1173fd1a2284b374be"
+    }
+},
+ 
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61290"
+    },
+    "ProcedureName": "STUDY OF FOUNDRY",
+    "labtype": "Manufacturing_Process_Lab - III",
+    "department": "Mechanical_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a77f4e73fd1a2284b374bf"
+    }
+},
+
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61291"
+    },
+    "ProcedureName": "MOULD PREPARATION USING SOLID- PATTERNS",
+    "labtype": "Manufacturing_Process_Lab - III",
+    "department": "Mechanical_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a77f9773fd1a2284b374c0"
+    }
+},
+
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61292"
+    },
+    "ProcedureName": "STUDY OF HOBBING MACHINE",
+    "labtype": "Manufacturing_Process_Lab - III",
+    "department": "Mechanical_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a7809592701e12b03d4c18"
+    }
+},
+
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61293"
+    },
+    "ProcedureName": "SPUR GEAR HOBBING",
+    "labtype": "Manufacturing_Process_Lab - III",
+    "department": "Mechanical_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a7811c92701e12b03d4c19"
+    }
+},
+
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61294"
+    },
+    "ProcedureName": "SPUR GEAR MILLING",
+    "labtype": "Manufacturing_Process_Lab - III",
+    "department": "Mechanical_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a781e092701e12b03d4c1a"
+    }
+},
+
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61295"
+    },
+    "ProcedureName": "HELICAL GEAR MILLING",
+    "labtype": "Manufacturing_Process_Lab - III",
+    "department": "Mechanical_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a7827892701e12b03d4c1b"
+    }
+},
+
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61296"
+    },
+    "ProcedureName": "STUDY OF TOOL AND CUTTER GRINDER",
+    "labtype": "Manufacturing_Process_Lab - III",
+    "department": "Mechanical_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a782fb92701e12b03d4c1c"
+    }
+},
+
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61297"
+    },
+    "ProcedureName": "GRINDING OF SINGLE POINT CUTTING TOOL",
+    "labtype": "Manufacturing_Process_Lab - III",
+    "department": "Mechanical_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a7836792701e12b03d4c1d"
+    }
+},
+
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61298"
+    },
+    "ProcedureName": "STUDY EXERCISE ON CNC MACHINE",
+    "labtype": "Manufacturing_Process_Lab - III",
+    "department": "Mechanical_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a7841492701e12b03d4c1e"
+    }
+},
+
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61299"
+    },
+    "ProcedureName":"COMPARATOR CIRCUIT",
+    "labtype": "System_Design_Using_Integrated_Circuit",
+    "department": "Electronics_And_Communications_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60c07d3d6490490623bfe3ae"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61300"
+    },
+    "ProcedureName":"RECIPROCATING AIR COMPRESSOR ",
+    "labtype": "Thermal_Engineering_Lab – I",
+    "department": "Mechanical_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60c083636490490623bfe3af"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61301"
+    },
+    "ProcedureName":"NATURAL CONVECTION",
+    "labtype": "Thermal_Engineering_Lab – I",
+    "department": "Mechanical_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60c0a1d26490490623bfe3b1"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61302"
+    },
+    "ProcedureName":"GUNN DIODE ",
+    "labtype": "Communication_Lab - III",
+    "department": "Electronics_And_Communications_Engineering",
+    "year": "4'th year",
+    "college": "PU",
+    "id": {
+        "$oid": "60c859dc6490490623bfe3b3"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61303"
+    },
+    "ProcedureName":"CHARACTERISTICS OF REFLEX KLYSTRON",
+    "labtype": "Communication_Lab - III",
+    "department": "Electronics_And_Communications_Engineering",
+    "year": "4'th year",
+    "college": "PU",
+    "id": {
+        "$oid": "60c85b226490490623bfe3b4"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61304"
+    },
+    "ProcedureName":" ISOLATOR & CIRCULATOR",
+    "labtype": "Communication_Lab - III",
+    "department": "Electronics_And_Communications_Engineering",
+    "year": "4'th year",
+    "college": "PU",
+    "id": {
+        "$oid": "60c85d986490490623bfe3b6"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61305"
+    },
+    "ProcedureName":" E-PLANE AND HI-PLANE TEE",
+    "labtype": "Communication_Lab - III",
+    "department": "Electronics_And_Communications_Engineering",
+    "year": "4'th year",
+    "college": "PU",
+    "id": {
+        "$oid": "60c86bf06490490623bfe3b7"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61306"
+    },
+    "ProcedureName":"MAGIC TEE",
+    "labtype": "Communication_Lab - III",
+    "department": "Electronics_And_Communications_Engineering",
+    "year": "4'th year",
+    "college": "PU",
+    "id": {
+        "$oid": "60c870cd6490490623bfe3b8"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61307"
+    },
+    "ProcedureName":" DIRECTIONAL COUPLER",
+    "labtype": "Communication_Lab - III",
+    "department": "Electronics_And_Communications_Engineering",
+    "year": "4'th year",
+    "college": "PU",
+    "id": {
+        "$oid": "60c879546490490623bfe3c8"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61308"
+    },
+    "ProcedureName":"HORN ANTENNA",
+    "labtype": "Communication_Lab - III",
+    "department": "Electronics_And_Communications_Engineering",
+    "year": "4'th year",
+    "college": "PU",
+    "id": {
+        "$oid": "60c87b756490490623bfe3c9"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61309"
+    },
+    "ProcedureName":"MEASUREMENT OF IMPEDANCE",
+    "labtype": "Communication_Lab - III",
+    "department": "Electronics_And_Communications_Engineering",
+    "year": "4'th year",
+    "college": "PU",
+    "id": {
+        "$oid": "60c87e916490490623bfe3ce"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61310"
+    },
+    "ProcedureName":"FIBRE OPTIC MEASUREMENTS",
+    "labtype": "Communication_Lab - III",
+    "department": "Electronics_And_Communications_Engineering",
+    "year": "4'th year",
+    "college": "PU",
+    "id": {
+        "$oid": "60c8808d6490490623bfe3cf"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61311"
+    },
+    "ProcedureName":" FIBRE OPTIC LED",
+    "labtype": "Communication_Lab - III",
+    "department": "Electronics_And_Communications_Engineering",
+    "year": "4'th year",
+    "college": "PU",
+    "id": {
+        "$oid": "60c881d76490490623bfe3d1"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61312"
+    },
+    "ProcedureName":"APD",
+    "labtype": "Communication_Lab - III",
+    "department": "Electronics_And_Communications_Engineering",
+    "year": "4'th year",
+    "college": "PU",
+    "id": {
+        "$oid": "60c883cf6490490623bfe3d2"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61313"
+    },
+    "ProcedureName":"CEA",
+    "labtype": "Electronic_Circuit - I",
+    "department": "Electronics_And_Communications_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60c8aab26490490623bfe3d3"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61314"
+    },
+    "ProcedureName":"Emitter follower",
+    "labtype": "Electronic_Circuit - I",
+    "department": "Electronics_And_Communications_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60cb0db876ce2f06190df02e"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61315"
+    },
+    "ProcedureName":"Cascade Amplifier",
+    "labtype": "Electronic_Circuit - I",
+    "department": "Electronics_And_Communications_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60cb0f1876ce2f06190df02f"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61316"
+    },
+    "ProcedureName":"FET amplifier",
+    "labtype": "Electronic_Circuit - I",
+    "department": "Electronics_And_Communications_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60cb1c5276ce2f06190df030"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61317"
+    },
+    "ProcedureName":"DARLINGTON AMPLIFIER",
+    "labtype": "Electronic_Circuit - I",
+    "department": "Electronics_And_Communications_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60cb209276ce2f06190df031"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61318"
+    },
+    "ProcedureName":"RC OSCILLATORS",
+    "labtype": "Electronic_Circuits - II",
+    "department": "Electronics_And_Communications_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60cb216b76ce2f06190df033"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61298"
+    },
+    "ProcedureName": "PHP",
+    "labtype": "Web_Technology",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609387c06ee1ef905ff30a5f"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61299"
+    },
+    "ProcedureName": "XML",
+    "labtype": "Web_Technology",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609388356ee1ef905ff30a60"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61300"
+    },
+    "ProcedureName": "AJAX",
+    "labtype": "Web_Technology",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609388aa6ee1ef905ff30a61"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61301"
+    },
+    "ProcedureName": "AJAX programming to fetch information from the database",
+    "labtype": "Web_Technology",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609389e07118a79088b0604c"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61302"
+    },
+    "ProcedureName": "Developing web services",
+    "labtype": "Web_Technology",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60938de77118a79088b0604d"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61303"
+    },
+    "ProcedureName": "Airline Reservation System",
+    "labtype": "Web_Technology",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60938f487118a79088b0604e"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61304"
+    },
+    "ProcedureName": "Shift Register",
+    "labtype": "Digital_Circuit",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6093affa7e7b74036f904d01"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61305"
+    },
+    "ProcedureName": "Magnitude Comparator",
+    "labtype": "Digital_Circuit",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6093bb217e7b74036f904d04"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61306"
+    },
+    "ProcedureName": "Non Sequential Binary Counter ",
+    "labtype": "Digital_Circuit",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6093cbc86ede7405da258e86"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61307"
+    },
+    "ProcedureName": "Non Sequential Binary Counter",
+    "labtype": "Digital_Circuit",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6093da8b88a2350678bf46ba"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61308"
+    },
+    "ProcedureName": "Metallurgical Microscope",
+    "labtype": "Material_Testing_And_Metallurgy",
+    "department": "Mechanical_Enginnering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6093e6f888a2350678bf46bc"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61309"
+    },
+    "ProcedureName": "Microscopic Examination",
+    "labtype": "Material_Testing_And_Metallurgy",
+    "department": "Mechanical_Enginnering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6093e7cdfa5b0b071b75538e"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61310"
+    },
+    "ProcedureName": "Study of Etchants",
+    "labtype": "Material_Testing_And_Metallurgy",
+    "department": "Mechanical_Enginnering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6093e88afa5b0b071b75538f"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61311"
+    },
+    "ProcedureName": "Microstructure of Material",
+    "labtype": "Material_Testing_And_Metallurgy",
+    "department": "Mechanical_Enginnering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6093e8fcfa5b0b071b755390"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61312"
+    },
+    "ProcedureName": "Heat Treatment Processes",
+    "labtype": "Material_Testing_And_Metallurgy",
+    "department": "Mechanical_Enginnering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6093eac1fa5b0b071b755391"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61313"
+    },
+    "ProcedureName": "Annealing of Steel",
+    "labtype": "Material_Testing_And_Metallurgy",
+    "department": "Mechanical_Enginnering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6093eb81fa5b0b071b755392"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61314"
+    },
+    "ProcedureName": "Normalizing of Steel",
+    "labtype": "Material_Testing_And_Metallurgy",
+    "department": "Mechanical_Enginnering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6093ec88fa5b0b071b755393"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61315"
+    },
+    "ProcedureName": "Hardening of Steel",
+    "labtype": "Material_Testing_And_Metallurgy",
+    "department": "Mechanical_Enginnering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6093ed1cd1a626073b85e32a"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61316"
+    },
+    "ProcedureName": "Measurement of Hardenability",
+    "labtype": "Material_Testing_And_Metallurgy",
+    "department": "Mechanical_Enginnering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6093ee0dd1a626073b85e32b"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61317"
+    },
+    "ProcedureName": "Study of Vernier Caliper, Micrometer ",
+    "labtype": "Manufracturing_Process_Lab - III",
+    "department": "Mechanical_Enginnering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609522fc6d9f65026602bfb7"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61318"
+    },
+    "ProcedureName": "Study of Sine Bar and Sine Centre ", 
+    "labtype": "Manufracturing_Process_Lab - III",
+    "department": "Mechanical_Enginnering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609523516d9f65026602bfb8"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61319"
+    },
+    "ProcedureName": "Study of Profile Projector ",
+    "labtype": "Mechanical_Measurements_And_Metrology",
+    "department": "Mechanical_Enginnering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6095238d6d9f65026602bfb9"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61320"
+    },
+    "ProcedureName": "Study of Tool Maker’s Microscope ", 
+    "labtype": "Mechanical_Measurements_And_Metrology",
+    "department": "Mechanical_Enginnering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6095247a6d9f65026602bfba"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61321"
+    },
+    "ProcedureName": "Study of Accelerometer ", 
+    "labtype": "Mechanical_Measurements_And_Metrology",
+    "department": "Mechanical_Enginnering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609524ed6d9f65026602bfbb"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61322"
+    },
+    "ProcedureName": "Study Of Lvdt And Rvdt ", 
+    "labtype": "Mechanical_Measurements_And_Metrology",
+    "department": "Mechanical_Enginnering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609525f26d9f65026602bfbc"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61323"
+    },
+    "ProcedureName": "Study Of Lvdt and Rvdt ", 
+    "labtype": "Mechanical_Measurements_And_Metrology",
+    "department": "Mechanical_Enginnering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609525fe6d9f65026602bfbd"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61324"
+    },
+    "ProcedureName": "Study of Lvdt and Rvdt ", 
+    "labtype": "Mechanical_Measurements_And_Metrology",
+    "department": "Mechanical_Enginnering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6095263e42bc75047d3ccd21"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61325"
+    },
+    "ProcedureName": "Calibration of Vernier Caliper, Micrometer and Height Gauge    ", 
+    "labtype": "Mechanical_Measurements_And_Metrology",
+    "department": "Mechanical_Enginnering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609534f5c9c49804be23bc09"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61326"
+    },
+    "ProcedureName": "Measurement of Wedge Angle Using Sine Bar ", 
+    "labtype": "Mechanical_Measurements_And_Metrology",
+    "department": "Mechanical_Enginnering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609535d8c9c49804be23bc0a"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61327"
+    },
+    "ProcedureName": "Calibration of Plain Plug Gauge ", 
+    "labtype": "Mechanical_Measurements_And_Metrology",
+    "department": "Mechanical_Enginnering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60953651c9c49804be23bc0b"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61328"
+    },
+    "ProcedureName": "Measurement of Straightness And Flatness Using  Two Axis Autocollimator ", 
+    "labtype": "Mechanical_Measurements_And_Metrology",
+    "department": "Mechanical_Enginnering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60953794c9c49804be23bc0c"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61329"
+    },
+    "ProcedureName": "Design of K-type Low Pass and High Pass Filter", 
+    "labtype": "Network_And_Transmission_Line",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609610bf7b14ec0443bb078d"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61330"
+    },
+    "ProcedureName": "Measurement of Pressure Using Strain Gauges",
+    "labtype": "Mechanical_Measurements_And_Metrology",
+    "department": "Mechanical_Enginnering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609673177b14ec0443bb078e"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61331"
+    },
+    "ProcedureName": "Characteristics of Thermocouple ", 
+    "labtype": "Mechanical_Measurements_And_Metrology",
+    "department": "Mechanical_Enginnering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609674507b14ec0443bb078f"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61332"
+    },
+    "ProcedureName": " Natural Frequency of Single Helical Spring System. ", 
+    "labtype": "Dynamics_Of_Machines",
+    "department": "Mechanical_Enginnering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60967e52bae62e0297df039f"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61333"
+    },
+    "ProcedureName": "Natural Frequency of Undamped Torsional Single Rotor System ", 
+    "labtype": "Dynamics_Of_Machines",
+    "department": "Mechanical_Enginnering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60967fc7bae62e0297df03a1"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61334"
+    },
+    "ProcedureName": "Natural Frequency of Undamped Two Rotor System", 
+    "labtype": "Dynamics_Of_Machines",
+    "department": "Mechanical_Enginnering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6096888dc97fdf023d9929de"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61335"
+    },
+    "ProcedureName": "Determination of Radius of Gyration of a Given Compound Pendulum", 
+    "labtype": "Dynamics_Of_Machines",
+    "department": "Mechanical_Enginnering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609689bfc97fdf023d9929df"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61336"
+    },
+    "ProcedureName": "Determination of Radius Of Gyration of a Given Compound Pendulum", 
+    "labtype": "Dynamics_Of_Machines",
+    "department": "Mechanical_Enginnering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60968c8016e29902f240b10f"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61337"
+    },
+    "ProcedureName": "Bifilar Suspension", 
+    "labtype": "Dynamics_Of_Machines",
+    "department": "Mechanical_Enginnering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60969041855fd1030f601771"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61338"
+    },
+    "ProcedureName": "Determination Of Damped Torsional Oscillations And Determine The Damping Co Efficient",
+    "labtype": "Dynamics_Of_Machines",
+    "department": "Mechanical_Enginnering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60969273855fd1030f601772"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61339"
+    },
+    "ProcedureName": "Resonance Frequency Of Equivalent Spring Mass System- Undamped And Damped  Condition. ", 
+    "labtype": "Dynamics_Of_Machines",
+    "department": "Mechanical_Enginnering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6096930e855fd1030f601773"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61340"
+    },
+    "ProcedureName": "Determination Of Characteristic Curves Of Watt Governor ", 
+    "labtype": "Dynamics_Of_Machines",
+    "department": "Mechanical_Enginnering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6096941d855fd1030f601774"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61341"
+    },
+    "ProcedureName": "Determination Of Characteristic Curves Of Porter Governor", 
+    "labtype": "Dynamics_Of_Machines",
+    "department": "Mechanical_Enginnering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609694fa855fd1030f601775"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61342"
+    },
+    "ProcedureName": " Determination Of Characteristic Curves Of Proell Governors", 
+    "labtype": "Dynamics_Of_Machines",
+    "department": "Mechanical_Enginnering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609695b520084b0362910a2c"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61343"
+    },
+    "ProcedureName": "Determination Of Characteristic Curves Of Hartnell Governors", 
+    "labtype": "Dynamics_Of_Machines",
+    "department": "Mechanical_Enginnering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6096970120084b0362910a2d"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61344"
+    },
+    "ProcedureName": "Static And Dynamics Balancing ", 
+    "labtype": "Dynamics_Of_Machines",
+    "department": "Mechanical_Enginnering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6096982520084b0362910a2e"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61345"
+    },
+    "ProcedureName": "Study Of Whirling Of Shaft ", 
+    "labtype": "Dynamics_Of_Machines",
+    "department": "Mechanical_Enginnering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60969910c39ef803829598a8"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61346"
+    },
+    "ProcedureName": "Gyroscopic Couple Verification", 
+    "labtype": "Dynamics_Of_Machines",
+    "department": "Mechanical_Enginnering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60969ac5c39ef803829598a9"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61347"
+    },
+    "ProcedureName": "Journal Bearing Pressure Distribution Of Different Loads At  Different Speeds ", 
+    "labtype": "Dynamics_Of_Machines",
+    "department": "Mechanical_Enginnering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60969c1cc39ef803829598aa"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61348"
+    },
+    "ProcedureName": "Cam Analysis ", 
+    "labtype": "Dynamics_Of_Machines",
+    "department": "Mechanical_Enginnering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60969c83c39ef803829598ac"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61349"
+    },
+    "ProcedureName": "Study Of Microwave Communication System", 
+    "labtype": "Advanced_Communication",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "4' th year",
+    "college": "PU",
+    "id": {
+        "$oid": "609a4538626e810341f9aef6"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61350"
+    },
+    "ProcedureName": "Study Of Microwave Components Using Matlab", 
+    "labtype": "Advanced_Communication",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "4' th year",
+    "college": "PU",
+    "id": {
+        "$oid": "609a468e626e810341f9aef8"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61351"
+    },
+    "ProcedureName": "Spectral Analysis Of Am, Fm And Fsk Using Spectrum Analyzer", 
+    "labtype": "Advanced_Communication",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "4' th year",
+    "college": "PU",
+    "id": {
+        "$oid": "609a47e2626e810341f9aef9"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61352"
+    },
+    "ProcedureName": "Measurement Of S/N And C/N Using Satellite Link Design", 
+    "labtype": "Advanced_Communication",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "4' th year",
+    "id": {
+        "$oid": "609a488a626e810341f9aefa"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61353"
+    },
+    "ProcedureName": "Design oF Filters Using Matlab-AC", 
+    "labtype": "Advanced_Communication",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "4' th year",
+    "college": "PU",
+    "id": {
+        "$oid": "609a4b60626e810341f9aefb"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61354"
+    },
+    "ProcedureName": "GSM MODEM Communication", 
+    "labtype": "Advanced_Communication",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "4' th year",
+    "college": "PU",
+    "id": {
+        "$oid": "609a5ad78f8ee904e9638990"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61355"
+    },
+    "ProcedureName": "Study Of Gps Trainer Module", 
+    "labtype": "Advanced_Communication",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "4' th year",
+    "college": "PU",
+    "id": {
+        "$oid": "609a5c83d012b30529a8db67"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61356"
+    },
+    "ProcedureName": "Computer To Computer Communication Using Fibre Link", 
+    "labtype": "Advanced_Communication",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "4' th year",
+    "college": "PU",
+    "id": {
+        "$oid": "609a5df9d012b30529a8db69"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61357"
+    },
+    "ProcedureName": "Satellite, Optical, Microwave Link Design Using Matlab", 
+    "labtype": "Advanced_Communication",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "4' th year",
+    "college": "PU",
+    "id": {
+        "$oid": "609a5f631f6901056485218b"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61408"
+    },
+    "ProcedureName": "16-bit addition with 8086 MASM",
+    "labtype": "Data_Structures_And_Object_Oriented",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609f93c8c8df10315577898b"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61409"
+    },
+    "ProcedureName": "16-bit subtraction with 8086 MASM",
+    "labtype": "Data_Structures_And_Object_Oriented",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609f9483c8df10315577898c"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61410"
+    },
+    "ProcedureName": "16-bit multiplication with 8086  MASM",
+    "labtype": "Data_Structures_And_Object_Oriented",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609f9531c8df10315577898d"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61411"
+    },
+    "ProcedureName": "Selection sort - MASM",
+    "labtype": "Data_Structures_And_Object_Oriented",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609f9bfac8df103155778991"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61412"
+    },
+    "ProcedureName": "16-bit division with MASM",
+    "labtype": "Data_Structures_And_Object_Oriented",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609f9da1c8df103155778993"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61413"
+    },
+    "ProcedureName": "linear search 8086 MASM",
+    "labtype": "Data_Structures_And_Object_Oriented",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609f9e37c8df103155778994"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61414"
+    },
+    "ProcedureName": "Linear search 8086 MASM",
+    "labtype": "Data_Structures_And_Object_Oriented",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609f9e3dc8df103155778995"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61415"
+    },
+    "ProcedureName": " 8-bit addition using 8051 ",
+    "labtype": "Data_Structures_And_Object_Oriented",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609f9e88c8df103155778998"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61416"
+    },
+    "ProcedureName": "8-bit subtraction using 8051",
+    "labtype": "Data_Structures_And_Object_Oriented",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609f9ed8c8df103155778999"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61417"
+    },
+    "ProcedureName": "8-bit multiplication using 8051",
+    "labtype": "Data_Structures_And_Object_Oriented",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609f9f3cc8df10315577899a"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61418"
+    },
+    "ProcedureName": "8-bit division using 8051",
+    "labtype": "Data_Structures_And_Object_Oriented",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609f9f7ac8df10315577899b"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61419"
+    },
+    "ProcedureName": "Analog to digital converter",
+    "labtype": "Electronics_Lab – III ",
+    "department": "Electrical_And_Electronis_Enginnering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609fa086c8df10315577899c"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61420"
+    },
+    "ProcedureName": "Saw tooth generation",
+    "labtype": "Electronics_Lab- II",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609fa0dec8df10315577899d"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61421"
+    },
+    "ProcedureName": "Square wave generation",
+    "labtype": "Data_Structures_And_Object_Oriented",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609fa128c8df10315577899e"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61422"
+    },
+    "ProcedureName": " Triangular waveform",
+    "labtype": "Data_Structures_And_Object_Oriented",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609fa170c8df10315577899f"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61423"
+    },
+    "ProcedureName": "Interface stepper motor with 8051",
+    "labtype": "Data_Structures_And_Object_Oriented",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609fa1d5c8df1031557789a0"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61424"
+    },
+    "ProcedureName": "Quick sort",
+    "labtype": "Data_Structures_And_Object_Oriented",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609fa539c8df1031557789a4"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61425"
+    },
+    "ProcedureName": "Binary Search",
+    "labtype": "Data_Structures_And_Object_Oriented",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609fa8166c018f3384e6f0c1"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61426"
+    },
+    "ProcedureName": "Knapsack",
+    "labtype": "Data_Structures_And_Object_Oriented",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609fa8866c018f3384e6f0c3"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61427"
+    },
+    "ProcedureName": "Single-source shortest paths",
+    "labtype": "Data_Structures_And_Object_Oriented",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609fa8e26c018f3384e6f0c4"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61428"
+    },
+    "ProcedureName": "Merge sort",
+    "labtype": "Data_Structures_And_Object_Oriented",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609fa8fd6c018f3384e6f0c6"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61429"
+    },
+    "ProcedureName": "Implementation of Classes and Object using Stationary",
+    "labtype": "Data_Structures_And_Object_Oriented",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609fab756c018f3384e6f0c7"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61430"
+    },
+    "ProcedureName": "Implement the Inheritance Using air ticket confirmation",
+    "labtype": "Data_Structures_And_Object_Oriented",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a0e9d66c018f3384e6f0c9"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61431"
+    },
+    "ProcedureName": "Calculation of areas of geometric figures using polymorphism",
+    "labtype": "Object_Oriented_Programming(Programs_In_Java)",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a0eabc6c018f3384e6f0cb"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61432"
+    },
+    "ProcedureName": "Implementation of fly interface",
+    "labtype": "Object_Oriented_Programming(Programs_In_Java)",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a0ebdb6c018f3384e6f0cc"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61433"
+    },
+    "ProcedureName": "Calculating the distance using operator overloading",
+    "labtype": "Object_Oriented_Programming(Programs_In_Java)",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a0ed026c018f3384e6f0d1"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61434"
+    },
+    "ProcedureName": "Delegates and events for attendance logging proces",
+    "labtype": "Object_Oriented_Programming(Programs_In_Java)",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a0f74c36a34735e81a1da7"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61435"
+    },
+    "ProcedureName": "Exception handing",
+    "labtype": "Object_Oriented_Programming(Programs_In_Java)",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a0f7d036a34735e81a1da8"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61436"
+    },
+    "ProcedureName": "Multithreading",
+    "labtype": "Object_Oriented_Programming(Programs_In_Java)",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a0f86636a34735e81a1da9"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61437"
+    },
+    "ProcedureName": "ADO.net - connected environment for employee information  retrieval",
+    "labtype": "Object_Oriented_Programming(Programs_In_Java)",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a0fdb536a34735e81a1daa"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61438"
+    },
+    "ProcedureName": "ADO.net - disconnected environment for employee information  updation",
+    "labtype": "Object_Oriented_Programming(Programs_In_Java)",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a0fec436a34735e81a1dac"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61439"
+    },
+    "ProcedureName": "Study of Logical Analyze",
+    "labtype": "Object_Oriented_Programming(Programs_In_Java)",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a1035336a34735e81a1dad"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61440"
+    },
+    "ProcedureName": "Study of logical analyze",
+    "labtype": "Object_Oriented_Programming(Programs_In_Java)",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a104ba36a34735e81a1dae"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61441"
+    },
+    "ProcedureName": "Study of in-circuit emulator", 
+    "labtype": "Hardware_And_Troubleshooting",
+    "department": "Computer_Science_And_Engineering",
+    "year": "4'th year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a1055536a34735e81a1daf"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61442"
+    },
+    "ProcedureName": "PC integration", 
+     "labtype": "Hardware_And_Troubleshooting",
+    "department": "Computer_Science_And_Engineering",
+    "year": "4'th year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a1070036a34735e81a1db0"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61443"
+    },
+    "ProcedureName": "Hard disk partitioning", 
+    "labtype": "Hardware_And_Troubleshooting",
+    "department": "Computer_Science_And_Engineering",
+    "year": "4'th year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a1079436a34735e81a1db1"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61444"
+    },
+    "ProcedureName": "Installation of OS",
+    "labtype": "Operating_System",
+    "department": "Computer_Science_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a108a236a34735e81a1db3"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61445"
+    },
+    "ProcedureName": "Serail communication", 
+    "labtype": "Microprocessor_Lab",
+    "department": "Computer_Science_Engineering",
+    "year": "2'nd year ",
+    "college": "PU",
+    "id": {
+        "$oid": "60a1091536a34735e81a1db4"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61446"
+    },
+    "ProcedureName": "Basic LAN setup",
+    "labtype": "Hardware_And_Troubleshooting",
+    "department": "Computer_Science_And_Engineering",
+    "year": "4'th year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a109ac36a34735e81a1db5"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61447"
+    },
+    "ProcedureName": "Basci LAN setup (using HUB or SWITCH)",
+    "labtype": "Hardware_And_Troubleshooting",
+    "department": "Computer_Science_And_Engineering",
+    "year": "4'th year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a10a6936a34735e81a1db6"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61448"
+    },
+    "ProcedureName": "Interface two PC using ECP",
+    "labtype": "Hardware_And_Troubleshooting",
+    "department": "Computer_Science_And_Engineering",
+    "year": "4'th year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a10ae036a34735e81a1db7"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61449"
+    },
+    "ProcedureName": "Circuit tracing using multimeter",
+    "labtype": "Hardware_And_Troubleshooting",
+    "department": "Computer_Science_And_Engineering",
+    "year": "4'th year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a10bf136a34735e81a1dbc"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61450"
+    },
+    "ProcedureName": "Fformating and partitioning of sata hdd",
+    "labtype": "Hardware_And_Troubleshooting",
+    "department": "Computer_Science_And_Engineering",
+    "year": "4'th year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a10ca336a34735e81a1dbd"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61451"
+    },
+    "ProcedureName": "Formating and partitioning of sata hdd",
+    "labtype": "Hardware_And_Troubleshooting",
+    "department": "Computer_Science_And_Engineering",
+    "year": "4'th year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a10cf036a34735e81a1dbe"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61452"
+    },
+    "ProcedureName": "Op- Amp Amplification",
+    "labtype": "System_Design_Using_Integrated_Circuit",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a166f2d95159054dde8c70"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61453"
+    },
+    "ProcedureName": "Integrator and Differentiator",
+    "labtype": "System_Design_Using_Integrated_Circuit",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a16aacd95159054dde8c72"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61454"
+    },
+    "ProcedureName": "Digital To Analog Converter",
+    "labtype": "System_Design_Using_Integrated_Circuit",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a17095d95159054dde8c73"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61455"
+    },
+    "ProcedureName": "Signal Generator",
+    "labtype": "System_Design_Using_Integrated_Circuit",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a1753cd95159054dde8c74"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61456"
+    },
+    "ProcedureName": "MultiVibrator -IC741",
+    "labtype": "System_Design_Using_Integrated_Circuit",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a17779d95159054dde8c75"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61457"
+    },
+    "ProcedureName": "Active Filter using OP-AMP",
+    "labtype": "System_Design_Using_Integrated_Circuit",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a1788cd95159054dde8c76"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61458"
+    },
+    "ProcedureName": "Multivibrator using IC555",
+    "labtype": "System_Design_Using_Integrated_Circuit",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a17995d95159054dde8c77"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61046"
+    },
+    "ProcedureName": "Adding an output port",
+    "labtype": "Hardware_And_Troubleshooting",
+    "department": "Computer_Science_Engineering",
+    "year": "4'th year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a2160c36a34735e81a1dc2"
+    }
+},
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61046"
+    },
+    "ProcedureName": "Performance RP ",
+    "labtype": "Fluid_Flow_And_Hydraulic",
+    "department": "Civil",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a258e4d95159054dde8c7c"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61046"
+    },
+    "ProcedureName": "Implement Graph Coloring Algorithm",
+    "labtype": "Artificial_Intelligence",
+    "department": "Computer_Science_Engineering",
+    "year": "4'th year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a368e636a34735e81a1dc3"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61046"
+    },
+    "ProcedureName": "Blockworld",
+    "labtype": "Artificial_Intelligence",
+    "department": "Computer_Science_Engineering",
+    "year": "4'th year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a369f836a34735e81a1dc4"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61046"
+    },
+    "ProcedureName": "Water jug problem using bfs and dfs",
+    "labtype": "Artificial_Intelligence",
+    "department": "Computer_Science_Engineering",
+    "year": "4'th year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a36b1836a34735e81a1dc5"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61046"
+    },
+    "ProcedureName": "Cost matrix",
+    "labtype": "Artificial_Intelligence",
+    "department": "Computer_Science_Engineering",
+    "year": "4'th year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a36bdf36a34735e81a1dc6"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61046"
+    },
+    "ProcedureName": "Cycle detection",
+    "labtype": "Artificial_Intelligence",
+    "department": "Computer_Science_Engineering",
+    "year": "4'th year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a36ffd36a34735e81a1dc7"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61046"
+    },
+    "ProcedureName": "Cycle detection 2",
+    "labtype": "Artificial_Intelligence",
+    "department": "Computer_Science_Engineering",
+    "year": "4'th year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a3712036a34735e81a1dc8"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61046"
+    },
+    "ProcedureName": "Linear hierarchy overriding",
+    "labtype": "Artificial_Intelligence",
+    "department": "Computer_Science_Engineering",
+    "year": "4'th year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a3723036a34735e81a1dc9"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61046"
+    },
+    "ProcedureName": "Study Of Cathode Ray Oscilloscope",
+    "labtype": "Electronics_Lab - I",
+    "department": "Electical_And_Electronic_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a79677a3b10706d86f4b27"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61046"
+    },
+    "ProcedureName": "P-n Junction Diode Characteristics",
+    "labtype": "Electronics_Lab - I",
+    "department": "Electical_And_Electronic_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a7d4afd65e8f02d922d401"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61046"
+    },
+    "ProcedureName": "CHARACTERISTICS OF ZENER DIODE",
+    "labtype": "Electronics_Lab - I",
+    "department": "Electical_And_Electronic_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a7d888318347038e920415"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61046"
+    },
+    "ProcedureName": "CB- EL 1",
+    "labtype": "Electronics_Lab - I",
+    "department": "Electical_And_Electronic_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a7dac8318347038e920416"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61046"
+    },
+    "ProcedureName": " Zener Diode - EL 1",
+    "labtype": "Electronics_Lab - I",
+    "department": "Electical_And_Electronic_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a7d888318347038e920715"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61046"
+    },
+    "ProcedureName": "CE- EL1",
+    "labtype": "Electronics_Lab - I",
+    "department": "Electical_And_Electronic_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a84ac6378a470536f1d588"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61046"
+    },
+    "ProcedureName": "JFET- EL1",
+    "labtype": "Electronics_Lab - I",
+    "department": "Electical_And_Electronic_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a84e32d1df7205a633d6c9"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61046"
+    },
+    "ProcedureName": "UJT- EL1",
+    "labtype": "Electronics_Lab - I",
+    "department": "Electical_And_Electronic_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a84f69d1df7205a633d6cc"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61046"
+    },
+    "ProcedureName": "Half wave- EL1",
+    "labtype": "Electronics_Lab - I",
+    "department": "Electical_And_Electronic_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a852ff68b0fb05fe31965f"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61046"
+    },
+    "ProcedureName": "Triac-EL1",
+    "labtype": "Electronics_Lab - I",
+    "department": "Electical_And_Electronic_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a854c668b0fb05fe319660"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61046"
+    },
+    "ProcedureName": "Biasing circuit -EL1",
+    "labtype": "Electronics_Lab - I",
+    "department": "Electical_And_Electronic_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a8e7af2f60aaf405e743b5"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61046"
+    },
+    "ProcedureName": "SCR-EL1",
+    "labtype": "Electronics_Lab - I",
+    "department": "Electical_And_Electronic_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a8e8002f60aaf405e743b6"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61046"
+    },
+    "ProcedureName": "Full wave- EL 1",
+    "labtype": "Electronics_Lab - I",
+    "department": "Electical_And_Electronic_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a8e8a6759309c63cf19bc3"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61046"
+    },
+    "ProcedureName": "Clipper & clamper- EL1",
+    "labtype": "Electronics_Lab - I",
+    "department": "Electical_And_Electronic_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a8e8ed759309c63cf19bc4"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61046"
+    },
+    "ProcedureName": "LPF -EL 2",
+    "labtype": "Electronics_Lab - II",
+    "department": "Electical_And_Electronic_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a8e925759309c63cf19bc5"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61046"
+    },
+    "ProcedureName": "Single stage RC- EL2",
+    "labtype": "Electronics_Lab - II",
+    "department": "Electical_And_Electronic_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a8e971759309c63cf19bc6"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61046"
+    },
+    "ProcedureName": "De-morgan's law-EL2",
+    "labtype": "Electronics_Lab - II",
+    "department": "Electical_And_Electronic_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a8e9a5759309c63cf19bc7"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61046"
+    },
+    "ProcedureName": "Basic gates - EL 2",
+    "labtype": "Electronics_Lab - II",
+    "department": "Electical_And_Electronic_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a8e9da759309c63cf19bc8"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61046"
+    },
+    "ProcedureName": "UJT relax osc- EL2",
+    "labtype": "Electronics_Lab - II",
+    "department": "Electical_And_Electronic_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a8ea19759309c63cf19bc9"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61046"
+    },
+    "ProcedureName": "Astable-EL2",
+    "labtype": "Electronics_Lab - II",
+    "department": "Electical_And_Electronic_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a8ea4e759309c63cf19bca"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61046"
+    },
+    "ProcedureName": "Monostable- EL2",
+    "labtype": "Electronics_Lab - II",
+    "department": "Electical_And_Electronic_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a8ea8f759309c63cf19bcb"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61046"
+    },
+    "ProcedureName": "RC-EL2",
+    "labtype": "Electronics_Lab - II",
+    "department": "Electical_And_Electronic_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a8eac6759309c63cf19bcc"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61046"
+    },
+    "ProcedureName": "SCHMITT-el2",
+    "labtype": "Electronics_Lab - II",
+    "department": "Electical_And_Electronic_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a8eaf5759309c63cf19bcd"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61046"
+    },
+    "ProcedureName": "adder,sub -EL2",
+    "labtype": "Electronics_Lab - II",
+    "department": "Electical_And_Electronic_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a8eb2c759309c63cf19bce"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61046"
+    },
+    "ProcedureName": "Flip flop- EL2",
+    "labtype": "Electronics_Lab - II",
+    "department": "Electical_And_Electronic_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a8ebd3759309c63cf19bcf"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61046"
+    },
+    "ProcedureName": "code converter-EL2  ",
+    "labtype": "Electronics_Lab - II",
+    "department": "Electical_And_Electronic_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a8ec1f759309c63cf19bd0"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61046"
+    },
+    "ProcedureName": "Master-slave-EL2 ",
+    "labtype": "Electronics_Lab - II",
+    "department": "Electical_And_Electronic_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a8ec54759309c63cf19bd1"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61046"
+    },
+    "ProcedureName": "Multi & de multi -EL2",
+    "labtype": "Electronics_Lab - II",
+    "department": "Electical_And_Electronic_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a8ecbe759309c63cf19bd2"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61046"
+    },
+    "ProcedureName": "Program for digital clock with 8085 microprocessor",
+    "labtype": "Electronics_Lab - II",
+    "department": "Electical_And_Electronic_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a905f44e49140b3480338a"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61046"
+    },
+    "ProcedureName": " 8 bit addition using 8051",
+    "labtype": "Microprocessor_Lab",
+    "department": "Information_Technology",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60aa36514e49140b3480338b"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61046"
+    },
+    "ProcedureName": "8 bit subtraction using 8051",
+    "labtype": "Microprocessor_Lab",
+    "department": "Information_Technology",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60aa37374e49140b3480338c"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61046"
+    },
+    "ProcedureName": "8 bit subtraction using 8051",
+    "labtype": "Microprocessor_Lab",
+    "department": "Information_Technology",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60aa37374e49140b3480338c"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61046"
+    },
+    "ProcedureName": "8bit multiplication using 8051 Microcontroller",
+    "labtype": "Microprocessor_Lab",
+    "department": "Information_Technology",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60aa39cd4e49140b3480338d"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61046"
+    },
+    "ProcedureName": "8-bit division using 8051 microcontroller",
+    "labtype": "Microprocessor_Lab",
+    "department": "Information_Technology",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60aa3a264e49140b3480338e"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61046"
+    },
+    "ProcedureName": "Program for code conversions with 8051microcontroller",
+    "labtype": "Microprocessor_Lab",
+    "department": "Information_Technology",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60aa3be04e49140b3480338f"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61046"
+    },
+    "ProcedureName": "Program to array operators with 8051 microcontroller",
+    "labtype": "Microprocessor_Lab",
+    "department": "Information_Technology",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60aa40704e49140b34803390"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61046"
+    },
+    "ProcedureName": "Traffic Light Controller Interface Using 8085",
+    "labtype": "Microprocessor_Lab",
+    "department": "Information_Technology",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60aa498c4e49140b3480339a"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61046"
+    },
+    "ProcedureName": "Serial Communication Interface Using 8051",
+    "labtype": "Microprocessor_Lab",
+    "department": "Information_Technology",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60aa4a634e49140b3480339d"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61046"
+    },
+    "ProcedureName": "MEASUREMENT OF RESISTANCE PARAMETERS USING BRIDGES",
+    "labtype": "Microprocessor_Lab",
+    "department": "Information_Technology",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60ace2044e49140b348033a1"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61046"
+    },
+    "ProcedureName": "MEASUREMENT OF INDUCTANCE",
+    "labtype": "Microprocessor_Lab",
+    "department": "Information_Technology",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60ace2a94e49140b348033a2"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61358"
+    },
+    "ProcedureName": "Core cutter Method ",
+    "labtype": "Computer_Networks",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609a854e62f80607b04c49e7"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61359"
+    },
+    "ProcedureName":"shrinkage limit " ,
+    "labtype":"Geotechnical_Engineering_Lab ",
+    "department": "Civil",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609a8c4362f80607b04c49e8"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61360"
+    },
+    "ProcedureName":"Flow Through Orifice" ,
+    "labtype":"Fluid_Mechanics",
+    "department": "Mechanical_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609a90301f6901056485218e"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61361"
+    },
+    "ProcedureName":"Flow Through Venturimeter" ,
+    "labtype":"Fluid_Mechanics",
+    "department": "Mechanical_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609a918e1f6901056485218f"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61362"
+    },
+    "ProcedureName":"Centrifugal Pump " ,
+    "labtype":"Fluid_Mechanics",
+    "department": "Mechanical_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609a93071f69010564852190"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61363"
+    },
+    "ProcedureName":"Facing and Plain Turning" ,
+    "labtype":"Manufacturing_Technology_Lab",
+    "department": "Mechanical_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609b500b290b210977faf1c8"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61364"
+    },
+    "ProcedureName":"Cacing and Plain Turning" ,
+    "labtype":"Manufacturing_Process_Lab - I",
+    "department": "Mechanical_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609b52a1c5858a09b2c70014"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61365"
+    },
+    "ProcedureName":"BJT in CB Configuration" ,
+    "labtype":"Electronic_Device_And_Circuits_Lab",
+    "department": "Electrical_And_Electronics Communication",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609bdc4bfa35bc0375fd6b33"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61366"
+    },
+    "ProcedureName":"Junction Field Effect Transistor" ,
+    "labtype":"Electronic_Device_And_Circuits_Lab",
+    "department": "Electrical_And_Electronics Communication",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609bdd84fa35bc0375fd6b34"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61367"
+    },
+    "ProcedureName":"BJT in CE Configuration" ,
+    "labtype":"Electronic_Device_And_Circuits_Lab",
+    "department": "Electrical_And_Electronics Communication",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609bdf67fa35bc0375fd6b35"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61368"
+    },
+    "ProcedureName":"Characteristics of LED" ,
+    "labtype":"Communication_Lab-III",
+    "department": "Electrical_And_Electronics Communication",
+    "year": "4'th year",
+    "college": "PU",
+    "id": {
+        "$oid": "609bedd4fa35bc0375fd6b38"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61369"
+    },
+    "ProcedureName":"Characteristics of TRIAC" ,
+    "labtype":"Electronic_Device_And_Circuits_Lab",
+    "department": "Electrical_And_Electronics Communication",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609bf11f9729d4052908ea98"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61370"
+    },
+    "ProcedureName":"Photo transistor" ,
+    "labtype":"Electronic_Device_And_Circuits_Lab",
+    "department": "Electrical_And_Electronics Communication",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609bf3ef9729d4052908ea9b"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61371"
+    },
+    "ProcedureName":"Characteristics of Switching Circuits" ,
+    "labtype":"Electronic_Device_And_Circuits_Lab",
+    "department": "Electrical_And_Electronics Communication",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609bf4809729d4052908ea9d"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61372"
+    },
+    "ProcedureName":"Silicon Controlled Rectifier Characteristics" ,
+    "labtype":"Electronic_Device_And_Circuits_Lab",
+    "department": "Electrical_And_Electronics Communication",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609cf92162d6d90265c09d94"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61373"
+    },
+    "ProcedureName":"Bridge Rectifier" ,
+    "labtype":"Electronic_Device_And_Circuits_Lab",
+    "department": "Electrical_And_Electronics Communication",
+    "year": "2'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609d032c62d6d90265c09d95"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61374"
+    },
+    "ProcedureName":"Unconfined compression test" ,
+    "labtype":"Geotechnical_Engineering_Lab",
+    "department": "Civil",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609d0c22f322691bd4da89d7"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61375"
+    },
+    "ProcedureName":"DIRECT SHEAR TEST" ,
+    "labtype":"Geotechnical_Engineering_Lab",
+    "department": "Civil",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609d102bf322691bd4da89d8"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61376"
+    },
+    "ProcedureName":"Triaxial shear Test" ,
+    "labtype":"Geotechnical_Engineering_Lab",
+    "department": "Civil",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609d127ef322691bd4da89d9"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61377"
+    },
+    "ProcedureName":"GRAIN SIZE ANALYSIS – SEDIMENTATION ANALYSIS HYDROMETER METHOD " ,
+    "labtype":"Geotechnical_Engineering_Lab",
+    "department": "Civil",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609d157cf322691bd4da89da"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61378"
+    },
+    "ProcedureName":"Semiconductor Diode" ,
+    "labtype":"Electronic_Device_And_Circuits_Lab",
+    "department": "Electrical_And_Electronics Communication",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609d2a5562d6d90265c09d96"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61379"
+    },
+    "ProcedureName":"Voltage Regulator" ,
+    "labtype":"Electronic_Device_And_Circuits_Lab",
+    "department": "Electrical_And_Electronics Communication",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609d304262d6d90265c09d97"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61380"
+    },
+    "ProcedureName":"Biasing Circuits" ,
+    "labtype":"Electronics_Lab-I",
+    "department": "Electrical_And_Electronics_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609d3ae362d6d90265c09d99"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61381"
+    },
+    "ProcedureName":"Clipper Circuit Using Diode" ,
+    "labtype":"Electronic_Device_And_Circuits_Lab",
+    "department": "Electrical_And_Electronics Communication",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609e92a762d6d90265c09d9a"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61382"
+    },
+    "ProcedureName":"Characteristics of UJT" ,
+    "labtype":"Electronic_Device_And_Circuits_Lab",
+    "department": "Electrical_And_Electronics Communication",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609e950362d6d90265c09d9b"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61383"
+    },
+    "ProcedureName":"Characteristics of MOSFET" ,
+    "labtype":"Electron_Device",
+    "department": "Electrical_And_Electronics Communication",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609e978c62d6d90265c09d9c"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61384"
+    },
+    "ProcedureName":"Study_Of_8085_Microprocessor_Kit" ,
+    "labtype":"Data_Structures",
+    "department": "Computer_Science_And_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609f7183c8df103155778976"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61385"
+    },
+    "ProcedureName":"Study of 8085 microprocessor kit" ,
+    "labtype":"Microprocessor_Lab",
+    "department": "Computer_Science_And_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609f7f6fc8df103155778977"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61386"
+    },
+    "ProcedureName":"8-bit subtraction using 8085" ,
+    "labtype":"Microprocessor_Lab",
+    "department": "Computer_Science_And_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609f7fcfc8df103155778978"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61387"
+    },
+    "ProcedureName":"8-bit multiplication using 8085" ,
+    "labtype":"Microprocessor_Lab",
+    "department": "Computer_Science_And_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609f8014c8df103155778979"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61388"
+    },
+    "ProcedureName":"8-bit division using 8085" ,
+    "labtype":"Microprocessor_Lab",
+    "department": "Computer_Science_And_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "09f8082c8df10315577897a"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61389"
+    },
+    "ProcedureName":"Block move operation" ,
+    "labtype":"Microprocessor_Lab",
+    "department": "Computer_Science_And_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609f80cbc8df10315577897b"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61390"
+    },
+    "ProcedureName":"Block interchange" ,
+    "labtype":"Microprocessor_Lab",
+    "department": "Computer_Science_And_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609f811bc8df10315577897c"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61391"
+    },
+    "ProcedureName":"Block compare" ,
+    "labtype":"Microprocessor_Lab",
+    "department": "Computer_Science_And_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609f8193c8df10315577897d"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61392"
+    },
+    "ProcedureName":"Block insertion" ,
+    "labtype":"Microprocessor_Lab",
+    "department": "Computer_Science_And_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609f83a6c8df10315577897e"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61393"
+    },
+    "ProcedureName":"Block delete" ,
+    "labtype":"Microprocessor_Lab",
+    "department": "Computer_Science_And_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609f83ecc8df10315577897f"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61394"
+    },
+    "ProcedureName":"Code conversion - Decimal to hexa" ,
+    "labtype":"Microprocessor_Lab",
+    "department": "Computer_Science_And_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609f8447c8df103155778980"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61395"
+    },
+    "ProcedureName":"Conversion - Hexadecimal to decimal" ,
+    "labtype":"Microprocessor_Lab",
+    "department": "Computer_Science_And_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609f8a6fc8df103155778981"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61396"
+    },
+    "ProcedureName":" 8-Bit Hexa-decimal to ASCII " ,
+    "labtype":"Microprocessor_Lab",
+    "department": "Computer_Science_And_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609f8ebbc8df103155778982"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61397"
+    },
+    "ProcedureName":"8-Bit ASCII to Hexa-decimal" ,
+    "labtype":"Microprocessor_Lab",
+    "department": "Computer_Science_And_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609f8ef3c8df103155778983"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61398"
+    },
+    "ProcedureName":"Digital clock simulation" ,
+    "labtype":"Microprocessor_Microcontroller_Lab",
+    "department": "Electrical_And_Electronics_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609f8f4ac8df103155778985"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61399"
+    },
+    "ProcedureName":"Moving display" ,
+    "labtype":"Microprocessor_Microcontroller_Lab",
+    "department": "Electrical_And_Electronics_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609f8ff6c8df103155778986"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61400"
+    },
+    "ProcedureName":"Serial communication" ,
+    "labtype":"Microprocessor_Lab",
+    "department": "Computer_Science_And_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609f904fc8df103155778987"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61401"
+    },
+    "ProcedureName":"Interrupt programming" ,
+    "labtype":"Microprocessor_Lab",
+    "department": "Computer_Science_And_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609f9261c8df103155778988"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61402"
+    },
+    "ProcedureName":"Traffic light control" ,
+    "labtype":"Microprocessor_Lab",
+    "department": "Computer_Science_And_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609f92eac8df10315577898a"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61403"
+    },
+    "ProcedureName":"16-bit addition with 8086 MASM" ,
+    "labtype":"Microprocessor_Lab",
+    "department": "Computer_Science_And_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609f93c8c8df10315577898b"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61404"
+    },
+    "ProcedureName":"16-bit subtraction with 8086 MASM" ,
+    "labtype":"Microprocessor_Lab",
+    "department": "Computer_Science_And_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609f9483c8df10315577898c"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61405"
+    },
+    "ProcedureName":"16-bit multiplication with 8086  MASM" ,
+    "labtype":"Microprocessor_Lab",
+    "department": "Computer_Science_And_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609f9531c8df10315577898d"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61406"
+    },
+    "ProcedureName":"Selection sort - MASM" ,
+    "labtype":"Microprocessor_Lab",
+    "department": "Computer_Science_And_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609f9bfac8df103155778991"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61407"
+    },
+    "ProcedureName":"16-bit division with MASM" ,
+    "labtype":"Microprocessor_Lab",
+    "department": "Computer_Science_And_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609f9da1c8df103155778993"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61408"
+    },
+    "ProcedureName":"Linear search 8086 MASM",
+    "labtype":"Microprocessor_Lab",
+    "department": "Computer_Science_And_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609f9e3dc8df103155778995"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61210"
+    },
+    "ProcedureName": "Joins",
+    "labtype":"Database_Management_System",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3 'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609138c8f05f7d87caca897d"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61211"
+    },
+    "ProcedureName": "Aggregate Functions",
+    "labtype":"Database_Management_System",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3 'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60913f46805600881b7188b8"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61212"
+    },
+    "ProcedureName": "Character function",
+    "labtype":"Database_Management_System",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3 'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60913fc8805600881b7188ba"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61213"
+    },
+    "ProcedureName": "Data and conversion function",
+    "labtype":"Database_Management_System",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3 'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6091401b805600881b7188bc"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61214"
+    },
+    "ProcedureName": "Student details",
+    "labtype":"Data_Structures",
+    "department": "Computer_Science_And_Engineering",
+    "year": "2 'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6091415b805600881b7188bd"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61215"
+    },
+    "ProcedureName": "EMF and MMF",
+    "labtype":"Electrical_And_Electronics_Lab",
+    "department": "Mechanical_Engineering",
+    "year": "2 'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609146c641f2c3044813e807"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61216"
+    },
+    "ProcedureName": "Three phase Transformer",
+    "labtype":"Electrical_And_Electronics_Lab",
+    "department": "Mechanical_Engineering",
+    "year": "2 'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6091cba70d06f70233475063"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61217"
+    },
+    "ProcedureName": "Three Phase - Two Wattmeter",
+    "labtype":"Electrical_And_Electronics_Lab",
+    "department": "Mechanical_Engineering",
+    "year": "2 'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6091ceb60d06f70233475065"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61218"
+    },
+    "ProcedureName": "Determination of Minor Losses",
+    "labtype":"Fluid_Mechanics",
+    "department": "Mechanical_Engineering",
+    "year": "2 'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6091d1296da59703184580e0"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61219"
+    },
+    "ProcedureName": "Flow Through Mouthpiece",
+    "labtype":"Fluid_Mechanics",
+    "department": "Mechanical_Engineering",
+    "year": "2 'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6091d26c6da59703184580e1"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61220"
+    },
+    "ProcedureName": "Flow Through Orifice Meter",
+    "labtype":"Fluid_Mechanics",
+    "department": "Mechanical_Engineering",
+    "year": "2 'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6091d4296da59703184580e3"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61221"
+    },
+    "ProcedureName": "Pipe flow- Introduction",
+    "labtype":"Fluid_Mechanics",
+    "department": "Mechanical_Engineering",
+    "year": "2 'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6091d6826da59703184580e4"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61222"
+    },
+    "ProcedureName": "Flow Through Pipes",
+    "labtype":"Fluid_Mechanics",
+    "department": "Mechanical_Engineering",
+    "year": "2 'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6091d7cb6da59703184580e5"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61223"
+    },
+    "ProcedureName": "Flow Through Venturimeter ",
+    "labtype":"Fluid_Mechanics",
+    "department": "Mechanical_Engineering",
+    "year": "2 'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6091d98b6da59703184580e6"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61224"
+    },
+    "ProcedureName":"Jet on Plate" ,
+    "labtype":"Fluid_Mechanics",
+    "department": "Mechanical_Engineering",
+    "year": "2 'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6091dac56da59703184580e7"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61225"
+    },
+    "ProcedureName":"Submersible Pump" ,
+    "labtype":"Fluid_Mechanics",
+    "department": "Mechanical_Engineering",
+    "year": "2 'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6091dd096da59703184580e8"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61226"
+    },
+    "ProcedureName":"Pumps Introduction" ,
+    "labtype":"Fluid_Mechanics",
+    "department": "Mechanical_Engineering",
+    "year": "2 'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6091dda06da59703184580e9"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61227"
+    },
+    "ProcedureName":"Reciprocating Pump " ,
+    "labtype":"Fluid_Mechanics",
+    "department": "Mechanical_Engineering",
+    "year": "2 'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6091de266da59703184580ea"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61228"
+    },
+    "ProcedureName":"Venturimeter" ,
+    "labtype":"Fluid_Mechanics",
+    "department": "Mechanical_Engineering",
+    "year": "2 'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6091df016da59703184580eb"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61229"
+    },
+    "ProcedureName":"”V” Shaping",
+    "labtype":"Manufacturing_Technology",
+    "department": "Mechanical_Engineering",
+    "year": "2 'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6091e1176da59703184580ec"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61230"
+    },
+    "ProcedureName":"Cube Milling" ,
+    "labtype":"Manufacturing_Process_Lab - I",
+    "department": "Mechanical_Engineering",
+    "year": "2 'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6091e1b76da59703184580ed"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61231"
+    },
+    "ProcedureName":"Cube Shaping" ,
+    "labtype":"Manufacturing_Process_Lab - I",
+    "department": "Mechanical_Engineering",
+    "year": "2 'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6091e29f6da59703184580ee"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61232"
+    },
+    "ProcedureName":"Facing and Plain Turning " ,
+    "labtype":"Manufacturing_Process_Lab - I",
+    "department": "Mechanical_Engineering",
+    "year": "2 'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6091e3336da59703184580ef"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61233"
+    },
+    "ProcedureName":"Lathe Machine" ,
+    "labtype":"Manufacturing_Process_Lab - I",
+    "department": "Mechanical_Engineering",
+    "year": "2 'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6091e47a6da59703184580f0"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61234"
+    },
+    "ProcedureName":"Step Milling" ,
+    "labtype":"Manufacturing_Process_Lab - I",
+    "department": "Mechanical_Engineering",
+    "year": "2 'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6091e50d6da59703184580f1"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61235"
+    },
+    "ProcedureName":"Step Turning" ,
+    "labtype":"Manufacturing_Process_Lab - I",
+    "department": "Mechanical_Engineering",
+    "year": "2 'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6091e5696da59703184580f2"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61236"
+    },
+    "ProcedureName":"Taper turning" ,
+    "labtype":"Manufacturing_Process_Lab - I",
+    "department": "Mechanical_Engineering",
+    "year": "2 'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6091e7026da59703184580f3"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61237"
+    },
+    "ProcedureName":"‘V’ Thread Cutting" ,
+    "labtype":"Manufacturing_Process_Lab - I",
+    "department": "Mechanical_Engineering",
+    "year": "2 'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6091e8056da59703184580f4"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61238"
+    },
+    "ProcedureName":"Erichsen Sheet Metal Test" ,
+    "labtype":"Material_Testing-I",
+    "department": "Civil",
+    "year": "2 'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6092280ba6a1900314fabe2c"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61239"
+    },
+    "ProcedureName":"Hardness test " ,
+    "labtype":"Material_Testing_And_Metallurgy - I",
+    "department": "Mechanical_Engineering",
+    "year": "2 'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60922b51a6a1900314fabe2d"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61240"
+    },
+    "ProcedureName":"Rockwell hardness" ,
+    "labtype":"Material_Testing_And_Metallurgy - I",
+    "department": "Mechanical_Engineering",
+    "year": "2 'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60922fc5a6a1900314fabe2e"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61241"
+    },
+    "ProcedureName":"Impact test Izod " ,
+    "labtype":"Material_Testing_And_Metallurgy - I",
+    "department": "Civil",
+    "year": "2 'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60923209a6a1900314fabe2f"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61242"
+    },
+    "ProcedureName":"Impact test Charpy  " ,
+    "labtype":"Material_Testing_And_Metallurgy - I",
+    "department": "Mechanical_Engineering",
+    "year": "2 'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609234dda6a1900314fabe30"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61243"
+    },
+    "ProcedureName":"Tension test" ,
+    "labtype":"Material_Testing_And_Metallurgy - I",
+    "department": "Mechanical_Engineering",
+    "year": "2 'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6092374fa6a1900314fabe31"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61244"
+    },
+    "ProcedureName":"Torsion test" ,
+    "labtype":"Material_Testing_And_Metallurgy - I",
+    "department": "Mechanical_Engineering",
+    "year": "2 'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609238faa6a1900314fabe32"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61245"
+    },
+    "ProcedureName":"Bend Test" ,
+    "labtype":"Material_Testing_And_Metallurgy - I",
+    "department": "Mechanical_Engineering",
+    "year": "2 'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609239a8a6a1900314fabe33"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61246"
+    },
+    "ProcedureName":"Web Application Using MVC" ,
+    "labtype":"Java",
+    "department": "Informational_Technology",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60923b06805600881b7188be"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61247"
+    },
+    "ProcedureName":"Implementing Job Management Systems With Cloud Computing" ,
+    "labtype":"Material_Testing_And_Metallurgy - I",
+    "department": "Mechanical_Engineering",
+    "year": "2 'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60923c9b805600881b7188bf"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61248"
+    },
+    "ProcedureName":"Spring test" ,
+    "labtype":"Material_Testing - I",
+    "department": "Civil",
+    "year": "2 'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6092402b87f79703c26acc6e"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61249"
+    },
+    "ProcedureName":"Application design using UML" ,
+    "labtype":"Material_Testing - I",
+    "department": "Civil",
+    "year": "2 'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60924095805600881b7188c0"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61250"
+    },
+    "ProcedureName":"Implementation Of Cryptographic Algorithms" ,
+    "labtype":"Material_Testing - I",
+    "department": "Civil",
+    "year": "2 'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6092416e805600881b7188c1"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61251"
+    },
+    "ProcedureName":"CHARACTERISTICS OF LDR" ,
+    "labtype":"Material_Testing - I",
+    "department": "Civil",
+    "year": "2 'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60ace3364e49140b348033a3"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61252"
+    },
+    "ProcedureName":"MEASUREMENT OF CAPACITANCES",
+    "labtype":"Material_Testing - I",
+    "department": "Civil",
+    "year": "2 'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60ace3fd4e49140b348033a4"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61253"
+    },
+    "ProcedureName":"EXTENSION OF VOLTMETER AND AMMETER" ,
+    "labtype":"Material_Testing - I",
+    "department": "Civil",
+    "year": "2 'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60ace5224e49140b348033a8"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61254"
+    },
+    "ProcedureName":"VERIFICATION OF NETWORK THEOREMS" ,
+    "labtype":"Material_Testing - I",
+    "department": "Civil",
+    "year": "2 'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60ace7034e49140b348033a9"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61255"
+    },
+    "ProcedureName":"MEASUREMENT OF TEMPERATURE USING TRANSDUCER" ,
+    "labtype":"Material_Testing - I",
+    "department": "Civil",
+    "year": "2 'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60ace99a4e49140b348033ae"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61256"
+    },
+    "ProcedureName":"CALIBRATION OF SINGLE-PHASE ENERGY METER" ,
+    "labtype":"Material_Testing - I",
+    "department": "Civil",
+    "year": "2 'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60acea5f4e49140b348033af"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61257"
+    },
+    "ProcedureName":"CALIBRATION OF THREE PHASE ENERGY METER" ,
+    "labtype":"Material_Testing - I",
+    "department": "Civil",
+    "year": "2 'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60aceb8b4e49140b348033b0"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61258"
+    },
+    "ProcedureName":"DESIGN OF INSTRUMENTATION AMPLIFIER" ,
+    "labtype":"Material_Testing - I",
+    "department": "Civil",
+    "year": "2 'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60acecde4e49140b348033b1"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61259"
+    },
+    "ProcedureName":"VOLTAGE TO CURRENT AND CURRENT TO VOLTAGE CONVERTER WITH GROUNDED AND FLOATING LOAD" ,
+    "labtype":"Material_Testing - I",
+    "department": "Civil",
+    "year": "2 'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60acf07e4e49140b348033bc"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61260"
+    },
+    "ProcedureName":"DETERMINATION OF TRANSFER FUNCTION FOR ARMATURE CONTROLLED D.C SHUNT MOTOR" ,
+    "labtype":"Material_Testing - I",
+    "department": "Civil",
+    "year": "2 'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60acf2b14e49140b348033bd"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61261"
+    },
+    "ProcedureName":"Analog frequency meter" ,
+    "labtype":"Material_Testing - I",
+    "department": "Civil",
+    "year": "2 'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60acfb364e49140b348033bf"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61262"
+    },
+    "ProcedureName":"STABILITY ANALYSIS USING ROOT LOCUS" ,
+    "labtype":"Material_Testing - I",
+    "department": "Civil",
+    "year": "2 'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60acfba14e49140b348033c0"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61263"
+    },
+    "ProcedureName":"STUDY OF TIME RESPONSE OF DIFFERENT TYPES OF SYSTEM USING COMPUTER SIMULATION PACKAGE" ,
+    "labtype":"Material_Testing - I",
+    "department": "Civil",
+    "year": "2 'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60acfdc54e49140b348033c1"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61264"
+    },
+    "ProcedureName":"STUDY OF FREQUENCY RESPONSE OF DIFFERENT TYPES OF SYSTEM USING COMPUTER SIMULATION PACKAGE" ,
+    "labtype":"Material_Testing - I",
+    "department": "Civil",
+    "year": "2 'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60acfead4e49140b348033c2"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61265"
+    },
+    "ProcedureName":"TRANSFER FUNCTION ANALYSIS OF A GIVEN SYSTEM USING SIMULINK" ,
+    "labtype":"Material_Testing - I",
+    "department": "Civil",
+    "year": "2 'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60acfefd4e49140b348033c4"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61266"
+    },
+    "ProcedureName":"MEASUREMENT OF DISPLACEMENT USING TRANSDUCER (LVDT)" ,
+    "labtype":"Material_Testing - I",
+    "department": "Civil",
+    "year": "2 'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60acff744e49140b348033c5"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61267"
+    },
+    "ProcedureName":"B-H Curve" ,
+    "labtype":"Material_Testing - I",
+    "department": "Civil",
+    "year": "2 'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60ad01b24e49140b348033c6"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61268"
+    },
+    "ProcedureName":"Measurement of resistance parameters using bridges" ,
+    "labtype":"Material_Testing - I",
+    "department": "Civil",
+    "year": "2 'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60ae09964e49140b348033c8"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61269"
+    },
+    "ProcedureName":"Measurement of inductance parameters using bridges" ,
+    "labtype":"Material_Testing - I",
+    "department": "Civil",
+    "year": "2 'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60ae0b5b4e49140b348033c9"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61270"
+    },
+    "ProcedureName":"Verification of network theorems" ,
+    "labtype":"Material_Testing - I",
+    "department": "Civil",
+    "year": "2 'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60ae1cd34e49140b348033cb"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61271"
+    },
+    "ProcedureName":"Extension range of ammeter and voltmeter" ,
+    "labtype":"Material_Testing - I",
+    "department": "Civil",
+    "year": "2 'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60ae1dc44e49140b348033cc"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61272"
+    },
+    "ProcedureName":"Calibration of energy meter" ,
+    "labtype":"Material_Testing - I",
+    "department": "Civil",
+    "year": "2 'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60ae202e4e49140b348033ce"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61273"
+    },
+    "ProcedureName":"Measurements on supply systems analog frequency meter" ,
+    "labtype":"Material_Testing - I",
+    "department": "Civil",
+    "year": "2 'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60ae224e4e49140b348033cf"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61274"
+    },
+    "ProcedureName":"Determination of b-h curve" ,
+    "labtype":"Material_Testing - I",
+    "department": "Civil",
+    "year": "2 'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60ae24844e49140b348033d0"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61275"
+    },
+    "ProcedureName":"Design of instrumentation amplifier" ,
+    "labtype":"Material_Testing - I",
+    "department": "Civil",
+    "year": "2 'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60ae25524e49140b348033d1"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61276"
+    },
+    "ProcedureName":"Voltage to current and current to voltage converter with grounded and floating load" ,
+    "labtype":"Material_Testing - I",
+    "department": "Civil",
+    "year": "2 'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60ae27914e49140b348033d2"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61277"
+    },
+    "ProcedureName":"Measurement of temperature using transducer" ,
+    "labtype":"Material_Testing - I",
+    "department": "Civil",
+    "year": "2 'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60ae2b844e49140b348033d3"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61278"
+    },
+    "ProcedureName":"Measurement of displacement using transducer" ,
+    "labtype":"Material_Testing - I",
+    "department": "Civil",
+    "year": "2 'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60ae2c094e49140b348033d4"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61279"
+    },
+    "ProcedureName":"Characteristics of LDR" ,
+    "labtype":"Material_Testing - I",
+    "department": "Civil",
+    "year": "2 'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60ae2c8f4e49140b348033d5"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61280"
+    },
+    "ProcedureName":"GENERATION OF ON-OFF TRAFFIC" ,
+    "labtype":"Material_Testing - I",
+    "department": "Civil",
+    "year": "2 'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60af27fb4e49140b348033d8"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61281"
+    },
+    "ProcedureName":"GENERATION OF VOICE TRAFFIC" ,
+    "labtype":"Material_Testing - I",
+    "department": "Civil",
+    "year": "2 'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60af28c34e49140b348033d9"
+    }
+}
+]

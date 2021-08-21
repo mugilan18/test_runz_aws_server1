@@ -1,0 +1,1352 @@
+[{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61200"
+    },
+    "ProcedureName": "Web_Application_Using_Dream_Weaver",
+    "labtype": "Advance_Software_Lab(Multimedia_And_Embedded)",
+    "department": "Information_Technology",
+    "year": "4'th year",
+    "college": "PU",
+    "id": {
+        "$oid": "6091221f4a2d6b870f3f841d"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61201"
+    },
+    "ProcedureName": "Study of Tools in Welding",
+    "labtype": "Workshop_Practice",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PU",
+    "id": {
+        "$oid": "6091224741f2c3044813e803"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61202"
+    },
+    "ProcedureName": "Single_Phase_Transformer",
+    "labtype": "Electrical_Machines - I",
+    "department": "Electrical_And_Electronics_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60912dd841f2c3044813e804"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61203"
+    },
+    "ProcedureName": "Data_Definition_Language",
+    "labtype": "Database_Management_System",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60912eb24a2d6b870f3f841e"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61204"
+    },
+    "ProcedureName": "Single_Phase_Induction_Motor",
+    "labtype": "Electrical_Machines - II",
+    "department": "Electrical_And_Electronics_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6091307041f2c3044813e805"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61205"
+    },
+    "ProcedureName": "Data_Manipulation_Language",
+    "labtype": "Database_Management_System",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609130be4a2d6b870f3f841f"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61206"
+    },
+    "ProcedureName": "Data_Control_language",
+    "labtype": "Database_Management_System",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6091318f4a2d6b870f3f8420"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61207"
+    },
+    "ProcedureName": "Data_Query_Language",
+    "labtype": "Database_Management_System",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609133174a2d6b870f3f8421"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61208"
+    },
+    "ProcedureName": "Constraints",
+    "labtype": "Database_Management_System",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609135f1f05f7d87caca897a"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61209"
+    },
+    "ProcedureName": "OC-SC_Single_Phase",
+    "labtype":"Electrical_And_Electronics_Lab",
+    "department": "Mechanical_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6091368141f2c3044813e806"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61210"
+    },
+    "ProcedureName": "Predicates",
+    "labtype":"Database_Management_System",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60913684f05f7d87caca897b"
+    }
+},
+{
+       "_id": {
+           "$oid": "611750c5aa22718a1ef61211"
+       },
+       "ProcedureName": "Simulation Of Location Monitoring System In Sensor Networks",
+       "labtype": "Advanced_Software_Lab_(Multimedia_And_Embedded)",
+       "department": "Information_Technology",
+       "year": "4'th year",
+       "college": "PU",
+       "id": {
+           "$oid": "6092480c805600881b7188c3"
+       }
+ },
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61212"
+    },
+    "ProcedureName": "Size distribution of fine",
+    "labtype": "Material_Testing_Lab - II",
+    "department": "Civil",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609248e987f79703c26acc73"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61213"
+    },
+    "ProcedureName": "Attribute Relevance Analysis In WEKA",
+    "labtype": "Advanced_Software_Lab_(Multimedia_And_Embedded)",
+    "department": "Information_Technology",
+    "year": "4'th year",
+    "college": "PU",
+    "id": {
+        "$oid": "60924a1c805600881b7188c4"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61214"
+    },
+    "ProcedureName": "Consistency of standard cement",
+    "labtype": "Material_Testing_Lab - II",
+    "department": "Civil",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60924b4287f79703c26acc74"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61215"
+    },
+    "ProcedureName": "Study Of Html Tags",
+    "labtype": "Web_Technology",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60924c34805600881b7188c5"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61216"
+    },
+    "ProcedureName": "Setting time of cement",
+    "labtype": "Material_Testing_Lab - II",
+    "department": "Civil",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609252da87f79703c26acc75"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61217"
+    },
+    "ProcedureName": "Bulking of fine aggregate",
+    "labtype": "Material_Testing_Lab - II",
+    "department": "Civil",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6092542487f79703c26acc76"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61218"
+    },
+    "ProcedureName": "VEE BEE Consistometer",
+    "labtype": "Material_Testing_Lab - II",
+    "department": "Civil",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6092557b87f79703c26acc77"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61219"
+    },
+    "ProcedureName": "Compaction factor test",
+    "labtype": "Material_Testing_Lab - II",
+    "department": "Civil",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6092575587f79703c26acc78"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61220"
+    },
+    "ProcedureName": "Slump cone test",
+    "labtype": "Material_Testing_Lab - II",
+    "department": "Civil",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6092594376fe2e05a33533bd"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61221"
+    },
+    "ProcedureName": "Pelton Wheel Turbine",
+    "labtype": "Fluid_Machinery_Laboratory",
+    "department": "Mechanical_Engineering",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60926954d5bbf703fc6fa2c7"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61222"
+    },
+    "ProcedureName": "Compressive strength of cement",
+    "labtype": "Material_Testing_Lab - II",
+    "department": "Civil",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60926e8276fe2e05a33533be"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61223"
+    },
+    "ProcedureName": "Flexural strength of concrete",
+    "labtype": "Material_Testing_Lab - II",
+    "department": "Civil",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60926ed776fe2e05a33533bf"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61224"
+    },
+    "ProcedureName": "Nested sub queries",
+    "labtype": "Database_Management_System",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6092732f805600881b7188c6"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61225"
+    },
+    "ProcedureName": "Library management ",
+    "labtype": "Database_Management_System",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60927694805600881b7188c7"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61226"
+    },
+    "ProcedureName": "Student mark list 1",
+    "labtype": "Web_Technology",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6092773b805600881b7188c8"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61227"
+    },
+    "ProcedureName": "Student mark list 2",
+    "labtype": "Web_Technology",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609277ba805600881b7188c9"
+    }
+},
+
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61228"
+    },
+    "ProcedureName": "Test On Reciprocating Pump",
+    "labtype": "Fluid_Mechanics_And_Machinery",
+    "department": "Civil",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60927b2bd5bbf703fc6fa2c8"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61229"
+    },
+    "ProcedureName": "Brinell Hardness Test",
+    "labtype": "Material_Testing_Lab - I",
+    "department": "Civil",
+    "year": "2'nd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60928ea1d5bbf703fc6fa2c9"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61230"
+    },
+    "ProcedureName": "Comparator Circuit",
+    "labtype": "System_Design_Using_Integrated_Circuit",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609295aaef24c5065b9b0de7"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61231"
+    },
+    "ProcedureName": "3 Bit Binary Up / Down Counter",
+    "labtype": "Digital_Circuit",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60929e8bef24c5065b9b0de8"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61232"
+    },
+    "ProcedureName": "Resume Preparation",
+    "labtype": "Web_Technology",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609371f7805600881b7188cc"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61233"
+    },
+    "ProcedureName": "Cascading Style Sheet",
+    "labtype": "Web_Technology",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609372cb805600881b7188cd"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61234"
+    },
+    "ProcedureName": "Client Side Scripting Login Form",
+    "labtype": "Web_Technology",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60937349805600881b7188ce"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61235"
+    },
+    "ProcedureName": "VBScript built-in functions",
+    "labtype": "Web_Technology",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609373ae805600881b7188cf"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61236"
+    },
+    "ProcedureName": "Student Quiz contest",
+    "labtype": "Web_Technology",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60937453805600881b7188d0"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61237"
+    },
+    "ProcedureName": "Javascript student's marks details",
+    "labtype": "Web_Technology",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609375bb805600881b7188d3"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61238"
+    },
+    "ProcedureName": "Arithmetic operations",
+    "labtype": "Web_Technology",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "6093789b019fa28ffeb2617f"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61239"
+    },
+    "ProcedureName": "Synchronous Counter",
+    "labtype": "Digital_Circuit",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60937abfdd6a1101cff45190"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61240"
+    },
+    "ProcedureName": "Configuration of Web Server",
+    "labtype": "Web_Technology",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60937e66019fa28ffeb26180"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61241"
+    },
+    "ProcedureName": "Servlet student details",
+    "labtype": "Web_Technology",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60937efb019fa28ffeb26181"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61242"
+    },
+    "ProcedureName": "Login form",
+    "labtype": "Web_Technology",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60937f9d019fa28ffeb26182"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61243"
+    },
+    "ProcedureName": "Session And Application Objects Student Quiz",
+    "labtype": "Web_Technology",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60938044019fa28ffeb26183"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61244"
+    },
+    "ProcedureName": "File system management",
+    "labtype": "Web_Technology",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609380d8019fa28ffeb26184"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61245"
+    },
+    "ProcedureName": "Online book store",
+    "labtype": "Web_Technology",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609384dd6ee1ef905ff30a5c"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61246"
+    },
+    "ProcedureName": "Active Server Page matrix multiplication",
+    "labtype": "Web_Technology",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609385876ee1ef905ff30a5d"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61247"
+    },
+    "ProcedureName": "Java servlet registration page",
+    "labtype": "Web_Technology",
+    "department": "Computer_Science_And_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "609387876ee1ef905ff30a5e"
+    }
+},
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61248"
+    },
+    "ProcedureName": "Game board",
+    "labtype": "Artificial_Intelligence",
+    "department": "Computer_Science_Engineering",
+    "year": "4'th year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a372e336a34735e81a1dca"
+    }
+},
+
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61249"
+    },
+    "ProcedureName": "Tic tac toe",
+    "labtype": "Artificial_Intelligence",
+    "department": "Computer_Science_Engineering",
+    "year": "4'th year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a3737d36a34735e81a1dcb"
+    }
+},
+ 
+
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61250"
+    },
+    "ProcedureName": "String compilation",
+    "labtype": "Artificial_Intelligence",
+    "department": "Computer_Science_Engineering",
+    "year": "4'th year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a3740636a34735e81a1dcc"
+    }
+},
+
+
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61251"
+    },
+    "ProcedureName": "Real Time Clock",
+    "labtype": "Embedded_System",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "4'th year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a38a70d95159054dde8c7f"
+    }
+},
+
+
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61252"
+    },
+    "ProcedureName": "Lamp Controller Using Ldr And Timer",
+    "labtype": "Embedded_System",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "4'th year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a38aa2d95159054dde8c80"
+    }
+},
+
+
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61253"
+    },
+    "ProcedureName": "Hot Chamber Controller",
+    "labtype": "Embedded_System",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "4'th year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a38ad9d95159054dde8c81"
+    }
+},
+
+
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61254"
+    },
+    "ProcedureName": "Moisture Sensor",
+    "labtype": "Embedded_System",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "4'th year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a38b06d95159054dde8c82"
+    }
+},
+
+
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61255"
+    },
+    "ProcedureName": "Temperature Measurement",
+    "labtype": "Basic_Electrical_And_Electronics_Engineering",
+    "department": "Electrical_And_Electronics_Engineering",
+    "year": "I'st year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a38b32d95159054dde8c83"
+    }
+},
+
+
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61256"
+    },
+    "ProcedureName": "Ultrasonic Detector",
+    "labtype": "Embedded_System",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "4'th year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a38b6ed95159054dde8c84"
+    }
+},
+
+
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61257"
+    },
+    "ProcedureName": "Characteristic Of Equalizer",
+    "labtype": "Network_And_Transmission_Line",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a3950dd95159054dde8c85"
+    }
+},
+
+
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61258"
+    },
+    "ProcedureName": "Wireless Transmitter ",
+    "labtype": "Artificial_Intelligence",
+    "department": "Computer_Science_Engineering",
+    "year": "4'th year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a395dfd95159054dde8c86"
+    }
+},
+
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61259"
+    },
+    "ProcedureName": "Wireless Receiver",
+    "labtype": "Physics",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a39626d95159054dde8c87"
+    }
+},
+ 
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61260"
+    },
+    "ProcedureName": "Water Level Controller",
+    "labtype": "Physics",
+    "department": "All",
+    "year": "I'st year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a39691d95159054dde8c88"
+    }
+},
+ 
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61261"
+    },
+    "ProcedureName": "Voltage Measurement",
+    "labtype": "Embedded_System",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "4'th year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a39aeed95159054dde8c89"
+    }
+},
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61262"
+    },
+    "ProcedureName": "Amplitude Shift Keying ",
+    "labtype": "Communication_Lab - II",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a39b4cd95159054dde8c8a"
+    }
+},
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61263"
+    },
+    "ProcedureName": "RSA Algorithm ",
+    "labtype": "Communication_Lab - II",
+    "department": "Electronics_And_Communication_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a39fa7d95159054dde8c91"
+    }
+},
+
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61264"
+    },
+    "ProcedureName": "Drilling and boring",
+    "labtype": "Manufacturing_Process_Lab - II",
+    "department": "Mechanical_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a73a4b33b2990aa3ae02cb"
+    }
+},
+ 
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61265"
+    },
+    "ProcedureName": "Turning between centers",
+    "labtype": "Manufacturing_Process_Lab - II",
+    "department": "Mechanical_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a73abf33b2990aa3ae02cc"
+    }
+},
+
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61266"
+    },
+    "ProcedureName": " Square and multi start thread cutting ",
+    "labtype": "Manufacturing_Process_Lab - II",
+    "department": "Mechanical_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a73b4a33b2990aa3ae02cd"
+    }
+},
+
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61267"
+    },
+    "ProcedureName": "Eccentric turning",
+    "labtype": "Manufacturing_Process_Lab - II",
+    "department": "Mechanical_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a73bab33b2990aa3ae02ce"
+    }
+},
+
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61268"
+    },
+    "ProcedureName": "Study of drilling machine",
+    "labtype": "Manufacturing_Process_Lab - II",
+    "department": "Mechanical_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a73c7733b2990aa3ae02cf"
+    }
+},
+
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61269"
+    },
+    "ProcedureName": "Drilling and tapping",
+    "labtype": "Manufacturing_Process_Lab - II",
+    "department": "Mechanical_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a73ce133b2990aa3ae02d0"
+    }
+},
+
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61270"
+    },
+    "ProcedureName": "Shaping and V- slot grooving",
+    "labtype": "Manufacturing_Process_Lab - II",
+    "department": "Mechanical_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a73d3133b2990aa3ae02d1"
+    }
+},
+
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61271"
+    },
+    "ProcedureName": "Spline milling",
+    "labtype": "Manufacturing_Process_Lab - II",
+    "department": "Mechanical_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a73d8033b2990aa3ae02d2"
+    }
+},
+
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61272"
+    },
+    "ProcedureName": "Spur gear",
+    "labtype": "Manufacturing_Process_Lab - II",
+    "department": "Mechanical_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a73dd833b2990aa3ae02d3"
+    }
+},
+
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61273"
+    },
+    "ProcedureName": "Keyway milling",
+    "labtype": "Manufacturing_Process_Lab - II",
+    "department": "Mechanical_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a73e2733b2990aa3ae02d4"
+    }
+},
+
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61274"
+    },
+    "ProcedureName": "Study of grinding machine",
+    "labtype": "Manufacturing_Process_Lab - II",
+    "department": "Mechanical_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a73eae33b2990aa3ae02d5"
+    }
+},
+
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61275"
+    },
+    "ProcedureName": "Cylindrical grinding",
+    "labtype": "Manufacturing_Process_Lab - II",
+    "department": "Mechanical_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a73eef33b2990aa3ae02d6"
+    }
+},
+
+ 
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61276"
+    },
+    "ProcedureName": "Modeling of a 3D Pipe with Flange ",
+    "labtype": "Computataional_Method",
+    "department": "Mechanical_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a74a8129fa5810be8e82af"
+    }
+},
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61277"
+    },
+    "ProcedureName": "Structured grid generation of a 2D Plate",
+    "labtype": "Computational_Method",
+    "department": "Mechanical_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a74b6229fa5810be8e82b0"
+    }
+},
+
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61278"
+    },
+    "ProcedureName": "Unstructured grid generation of a 2D Plate",
+    "labtype": "Computataional_Method",
+    "department": "Mechanical_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a74bbb29fa5810be8e82b1"
+    }
+},
+
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61279"
+    },
+    "ProcedureName": "Structured grid generation of a 3D Pipe",
+    "labtype": "Computataional_Method",
+    "department": "Mechanical_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a74c0e29fa5810be8e82b2"
+    }
+},
+
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61280"
+    },
+    "ProcedureName": "Unstructured grid generation of a 3D Pipe",
+    "labtype": "Computataional_Method",
+    "department": "Mechanical_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a74cb329fa5810be8e82b3"
+    }
+},
+
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61281"
+    },
+    "ProcedureName": "Incompressible internal laminar flow in a 3D Pipe",       
+    "labtype": "Computataional_Method",
+    "department": "Mechanical_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a74f6c533f5b11851e0214"
+    }
+},
+
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61282"
+    },
+    "ProcedureName": "Incompressible internal turbulent flow in a 3D Pipe",
+    "labtype": "Computataional_Method",
+    "department": "Mechanical_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a75034533f5b11851e0215"
+    }
+},
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61283"
+    },
+    "ProcedureName": "Incompressible external laminar flow over an Aerofoil",
+    "labtype": "Computataional_Method",
+    "department": "Mechanical_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a75153533f5b11851e0217"
+    }
+},
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61284"
+    },
+    "ProcedureName": "Incompressible external turbulent flow over an Aerofoil",
+    "labtype": "Computataional_Method",
+    "department": "Mechanical_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a751da533f5b11851e0218"
+    }
+},
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61285"
+    },
+    "ProcedureName": "PROGRAMMING OF CNC TURNING",
+    "labtype": "Manufacturing_Process_Lab - III",
+    "department": "Mechanical_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a77b9373fd1a2284b374ba"
+    }
+},
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61286"
+    },
+    "ProcedureName": "PROGRAMMING OF CNC MILLING",
+    "labtype": "Manufacturing_Process_Lab - III",
+    "department": "Mechanical_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a77c3b73fd1a2284b374bb"
+    }
+},
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61287"
+    },
+    "ProcedureName": "STUDY OF AUTOMATIC PROGRAMMING TOOL",
+    "labtype": "Manufacturing_Process_Lab - III",
+    "department": "Mechanical_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a77d5a73fd1a2284b374bc"
+    }
+},
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61288"
+    },
+    "ProcedureName": "APT PROGRAMMING FOR MILLING",
+    "labtype": "Manufacturing_Process_Lab - III",
+    "department": "Mechanical_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a77d9873fd1a2284b374bd"
+    }
+},
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61289"
+    },
+    "ProcedureName": "STUDY OF VERNIER CALIPER, MICROMETER",
+    "labtype": "Manufacturing_Process_Lab - III",
+    "department": "Mechanical_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a77e1173fd1a2284b374be"
+    }
+},
+ 
+ {
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61290"
+    },
+    "ProcedureName": "STUDY OF FOUNDRY",
+    "labtype": "Manufacturing_Process_Lab - III",
+    "department": "Mechanical_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a77f4e73fd1a2284b374bf"
+    }
+},
+
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61291"
+    },
+    "ProcedureName": "MOULD PREPARATION USING SOLID- PATTERNS",
+    "labtype": "Manufacturing_Process_Lab - III",
+    "department": "Mechanical_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a77f9773fd1a2284b374c0"
+    }
+},
+
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61292"
+    },
+    "ProcedureName": "STUDY OF HOBBING MACHINE",
+    "labtype": "Manufacturing_Process_Lab - III",
+    "department": "Mechanical_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a7809592701e12b03d4c18"
+    }
+},
+
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61293"
+    },
+    "ProcedureName": "SPUR GEAR HOBBING",
+    "labtype": "Manufacturing_Process_Lab - III",
+    "department": "Mechanical_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a7811c92701e12b03d4c19"
+    }
+},
+
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61294"
+    },
+    "ProcedureName": "SPUR GEAR MILLING",
+    "labtype": "Manufacturing_Process_Lab - III",
+    "department": "Mechanical_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a781e092701e12b03d4c1a"
+    }
+},
+
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61295"
+    },
+    "ProcedureName": "HELICAL GEAR MILLING",
+    "labtype": "Manufacturing_Process_Lab - III",
+    "department": "Mechanical_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a7827892701e12b03d4c1b"
+    }
+},
+
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61296"
+    },
+    "ProcedureName": "STUDY OF TOOL AND CUTTER GRINDER",
+    "labtype": "Manufacturing_Process_Lab - III",
+    "department": "Mechanical_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a782fb92701e12b03d4c1c"
+    }
+},
+
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61297"
+    },
+    "ProcedureName": "GRINDING OF SINGLE POINT CUTTING TOOL",
+    "labtype": "Manufacturing_Process_Lab - III",
+    "department": "Mechanical_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a7836792701e12b03d4c1d"
+    }
+},
+
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61298"
+    },
+    "ProcedureName": "STUDY EXERCISE ON CNC MACHINE",
+    "labtype": "Manufacturing_Process_Lab - III",
+    "department": "Mechanical_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60a7841492701e12b03d4c1e"
+    }
+},
+
+{
+    "_id": {
+        "$oid": "611750c5aa22718a1ef61299"
+    },
+    "ProcedureName":"COMPARATOR CIRCUIT",
+    "labtype": "System_Design_Using_Integrated_Circuit",
+    "department": "Electronics_And_Communications_Engineering",
+    "year": "3'rd year",
+    "college": "PU",
+    "id": {
+        "$oid": "60c07d3d6490490623bfe3ae"
+    }
+}]
